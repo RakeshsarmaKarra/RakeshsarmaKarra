@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/RakeshsarmaKarra/RakeshsarmaKarra/blob/main/Github%20Wallpaper2.jpg" width="100%" alt="GitHub Background">
+  <img src="https://github.com/RakeshsarmaKarra/RakeshsarmaKarra/blob/main/Github4.jpg" width="100%" alt="GitHub Background">
 </div>
 
 
