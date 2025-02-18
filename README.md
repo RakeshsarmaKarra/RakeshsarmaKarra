@@ -133,16 +133,32 @@ Team Player
   - Accelerated decision making by 20% faster through managed portfolio, and fortnightly opportunity tracker reports.                                          
   - Prepared a customized report to track each employee transaction inflow & outflow(TOI) by BI teams with 10X faster speed.                                             
 
-# Projects
-[![Humana-Mays 2024, Healthcare Analytics Case Competition](https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg)](https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition)
+# Projects2
 
-[![American Airlines Hack-a-thon 2024](https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg)](https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/README.md)
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="300" height="200" alt="Humana-Mays 2024">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/README.md">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg" width="300" height="200" alt="American Airlines Hackathon 2024">
+  </a>
+</p>
 
-[![Philippines MCCT Program Dashboard](https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard%20.jpg)](https://github.com/RakeshsarmaKarra/Tableau-Dashboard/edit/main/README.md)
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/edit/main/README.md">
+    <img src="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard%20.jpg" width="300" height="200" alt="Philippines MCCT Program Dashboard">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-">
+    <img src="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-/blob/main/User%20Interface.png" width="300" height="200" alt="TA Eligibility Predictor">
+  </a>
+</p>
 
-[![TA Eligibility Predictor](https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-/blob/main/User%20Interface.png)](https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-)
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/edit/main/README.md">
+    <img src="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/blob/main/Project%20Management%20MSET%205050%20.jpg" width="300" height="200" alt="Project Management">
+  </a>
+</p>
 
-[![PM](https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/blob/main/Project%20Management%20MSET%205050%20.jpg)](https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/edit/main/README.md)
 
 # Honors & Recognitions
 - Selected in the top 10% out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
