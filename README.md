@@ -142,9 +142,13 @@ Team Player
 
 [![TA Eligibility Predictor](https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-/blob/main/User%20Interface.png)](https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-)
 
+[![PM](https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/blob/main/Project%20Management%20MSET%205050%20.jpg)](https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/edit/main/README.md)
 
-
-
+# Honors & Recognitions
+- Selected in the top 10% out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
+- Achieved 2nd runner up out of 150 teams in American Airlines Data Challenge(Dec 2023) | Link
+- Received Silver and Bronze Awards in Citi bank
+- Received Work Excellence Award in ICICI bank
 
 
 
