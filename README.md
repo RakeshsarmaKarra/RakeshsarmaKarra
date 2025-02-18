@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/RakeshsarmaKarra/RakeshsarmaKarra/blob/main/Github4.jpg" width="100%" alt="GitHub Background">
-</div>
-
 
 ## 👋 About Me                                                                                                                                                
 🎓 Graduate Student from UNT, majoring in Advanced Data Analytics, USA                                                                        
