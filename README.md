@@ -1,8 +1,5 @@
 ![Bg](https://github.com/RakeshsarmaKarra/portfolio/blob/main/LinkedIn%20Background%20picture.jpg)
 
-# Rakesh Sarma Karra
-# Data Science and Analytics Professional 
-
 ## 👋 About Me                                                                                                                                                
 🎓 Graduate Student from UNT, majoring in Advanced Data Analytics, USA                                                                        
 🔍 6+ years of experience as a Data Scientist & Analyst (including hands-on projects in the master’s program)                                    
