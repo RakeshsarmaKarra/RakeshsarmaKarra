@@ -133,10 +133,14 @@ Team Player
   - Accelerated decision making by 20% faster through managed portfolio, and fortnightly opportunity tracker reports.                                          
   - Prepared a customized report to track each employee transaction inflow & outflow(TOI) by BI teams with 10X faster speed.                                             
 
+# Projects
+[![Humana-Mays 2024, Healthcare Analytics Case Competition](https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg)](https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition)
 
+[![American Airlines Hack-a-thon 2024](https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg)](https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/README.md)
 
+[![Philippines MCCT Program Dashboard](https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard%20.jpg)](https://github.com/RakeshsarmaKarra/Tableau-Dashboard/edit/main/README.md)
 
-
+[![TA Eligibility Predictor](https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-/blob/main/User%20Interface.png)](https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-)
 
 
 
