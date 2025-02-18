@@ -119,14 +119,14 @@ Team Player
     ### Findouts                                                                                                                              
   - Detected a 50% drop of baggage counts due to rainfall and thunderstorm during diagnostic stage by analyzing residual plots.                                          
 
-## Data Management Analyst – Citibank, India Nov 2021 - Jan 2023                                                                                    
+## → Data Management Analyst – Citibank, India Nov 2021 - Jan 2023                                                                                    
   - Developed a data quality project using SAS, adhering to the rules of California Consumer Privacy Act (CCPA) 2020.                                          
   - Implemented concepts like import, arrays, functions to read unstructured python file into SAS EG8 platform with 40% faster.                                          
   - Streamlined the process using UNIX, SQL commands such as unzip, joins, subqueries and automated the report in Autosys.                                          
   - Focused on data leakage by performing quality check in the BRS file and tagging missed data using case when conditions.                                          
   - Migrated data from CMR to MDM engine and ensured data quality stewardship with 76% reliability.                                          
 
-## Data Analyst - ICICI Bank, India Mar 2019 - Oct 2021                                                                                    
+## → Data Analyst - ICICI Bank, India Mar 2019 - Oct 2021                                                                                    
   - Imported the data files in SAS EG, using proc import, import wizard, set, select statements specifying sheet name, delimiters.                                          
   - Developed 10 individual reports on calls and visits, assets, loans for both current non-managed and managed customers.                                          
   - Developed VB, DBM dashboards using SAS reports at PAN-India level, included drill downs using compute statement.                                          
