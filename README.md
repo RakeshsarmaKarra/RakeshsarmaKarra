@@ -1,4 +1,7 @@
-![Bg](https://github.com/RakeshsarmaKarra/portfolio/blob/main/LinkedIn%20Background%20picture.jpg)
+<div align="center">
+  <img src="https://github.com/RakeshsarmaKarra/RakeshsarmaKarra/blob/main/Github%20Wallpaper2.jpg" width="100%" alt="GitHub Background">
+</div>
+
 
 ## 👋 About Me                                                                                                                                                
 🎓 Graduate Student from UNT, majoring in Advanced Data Analytics, USA                                                                        
