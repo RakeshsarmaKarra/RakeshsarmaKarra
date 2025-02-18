@@ -130,7 +130,7 @@ Team Player
   - Accelerated decision making by 20% faster through managed portfolio, and fortnightly opportunity tracker reports.                                          
   - Prepared a customized report to track each employee transaction inflow & outflow(TOI) by BI teams with 10X faster speed.                                             
 
-# Projects2
+# Projects
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
