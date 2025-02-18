@@ -84,8 +84,67 @@ Team Player
 
 ## Programming Languages  
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)  
-[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)](https://www.w3schools.com/sql/)  
-[![SAS](https://img.shields.io/badge/SAS-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)](https://www.w3schools.com/sql/) [![SAS](https://img.shields.io/badge/SAS-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
+
+## Cloud Technologies  
+
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/) [![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)  
+
+## Data Visualization Tools  
+
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/) [![SAS Viya](https://img.shields.io/badge/SAS%20Viya-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
+
+# Experience
+## → Teaching Assistant - University of North Texas, USA Jan 2024 - Dec 2024                                                                
+  - Led discussions on Big Query, Vertex AI in GCP for the Harvesting, Storing and Retrieving Data (ADTA5240).                                
+  - Improvised lessons, and organized lab sessions in Python for Discovery and Learning with Big Data (ADTA 5340).                                
+
+## → Research Assistant (Unpaid) - University of North Texas, USA Jun 2024 - Dec 2024                                                                
+  - Conducted research to find 3 different types of biases in AI. Ex: System, Developer and Statistical biases.
+  - Surveyed on AI usage, reliability revealing 68% of the participants believed AI enhanced performance.
+  - Performed comparative analysis regarding bias, hate speech, and sentiment categorization (positive/negative)for text and image responses across AI tools like ChatGPT, Gemini, Meta, and Claude AI.
+    ### Achievements(Research Work)
+      - Presented research on AI’s TRANSFORMATIVE IMPACT ON HIGHER EDUCATION at the Society of North American Scholars Interdisciplinary 3rd conference(Oct 2024) - Link
+      - Abstract titled EXPLORING USER BIAS AND RESPONSE VARIABILITY IN GENERATIVE AI SYSTEMS accepted for presentation by the SWDSI 54th Annual Conference(Mar 2025).
+
+## → Operations Research Intern (OR&AA) (Unpaid) - American Airlines, USA Sep 2023 - Dec 2023                                          
+  - Applied CRISP-DM methodology (6 steps process) to initiate flight research, aligning it with strategic business objectives.                                          
+  - Deep dived into the dataset(6.5M records) and extracted descriptive statistics.                                                                                    
+  - Generated visualizations with the help of matplotlib, seaborn libraries to know about the nature of the data points.                                          
+  - Performed correlation and causality analysis, identified date column as the only regressor column related to target variable.                                          
+  - Performed data transformations using pandas to_datetime function to convert date column into weekday number.                                          
+  - Built random forest model and enhanced accuracy by 78% and mitigated error metrics using seed, cross validation techniques etc.                                          
+  - Performed congestion analysis in baggage wise and time of the flights congestion index, identified 3 peak intervals in the day.                                          
+  - Implemented a concept called SMTP(Safe Mail Transfer Protocol) to automated alerts in goggle colab and reduced execution time by 60%.                     
+    ### Findouts                                                                                                                              
+  - Detected a 50% drop of baggage counts due to rainfall and thunderstorm during diagnostic stage by analyzing residual plots.                                          
+
+## Data Management Analyst – Citibank, India Nov 2021 - Jan 2023                                                                                    
+  - Developed a data quality project using SAS, adhering to the rules of California Consumer Privacy Act (CCPA) 2020.                                          
+  - Implemented concepts like import, arrays, functions to read unstructured python file into SAS EG8 platform with 40% faster.                                          
+  - Streamlined the process using UNIX, SQL commands such as unzip, joins, subqueries and automated the report in Autosys.                                          
+  - Focused on data leakage by performing quality check in the BRS file and tagging missed data using case when conditions.                                          
+  - Migrated data from CMR to MDM engine and ensured data quality stewardship with 76% reliability.                                          
+
+## Data Analyst - ICICI Bank, India Mar 2019 - Oct 2021                                                                                    
+  - Imported the data files in SAS EG, using proc import, import wizard, set, select statements specifying sheet name, delimiters.                                          
+  - Developed 10 individual reports on calls and visits, assets, loans for both current non-managed and managed customers.                                          
+  - Developed VB, DBM dashboards using SAS reports at PAN-India level, included drill downs using compute statement.                                          
+  - Accelerated decision making by 20% faster through managed portfolio, and fortnightly opportunity tracker reports.                                          
+  - Prepared a customized report to track each employee transaction inflow & outflow(TOI) by BI teams with 10X faster speed.                                             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
