@@ -91,19 +91,16 @@ Team Player
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/) [![SAS Viya](https://img.shields.io/badge/SAS%20Viya-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
 
 # Experience
-## → Teaching Assistant - University of North Texas, USA Jan 2024 - Dec 2024                                                                
-  - Led discussions on Big Query, Vertex AI in GCP for the Harvesting, Storing and Retrieving Data (ADTA5240).                                
-  - Improvised lessons, and organized lab sessions in Python for Discovery and Learning with Big Data (ADTA 5340).                                
+## → Data Scientist - University of North Texas, USA Jan 2024 - Dec 2024
+  - Led discussions on BigQuery, Vertex AI in GCP, guiding students in data storage, retrieval, and ML model deployment.
+  - Designed and delivered Python-based lab sessions covering advanced machine learning, and big data analytics.
+  - Conducted AI bias research, identifying and analyzing system, developer, and statistical biases in ML models.
+  - Designed an AI reliability survey, revealing 68% of participants believed AI enhanced performance, providing insights into user trust and adoption.
+  - Performed a comparative analysis of bias, hate speech detection, and sentiment classification across AI models from ChatGPT, Gemini, Meta AI, and Claude AI.
+  - Mentored students on ML workflows, responsible AI, and bias mitigation strategies, ensuring ethical and effective AI model development.
+  - Applied data-driven research methods to assess the performance and limitations of state-of-the-art AI tools, optimizing their usage in real-world applications.
 
-## → Research Assistant (Unpaid) - University of North Texas, USA Jun 2024 - Dec 2024                                                                
-  - Conducted research to find 3 different types of biases in AI. Ex: System, Developer and Statistical biases.
-  - Surveyed on AI usage, reliability revealing 68% of the participants believed AI enhanced performance.
-  - Performed comparative analysis regarding bias, hate speech, and sentiment categorization (positive/negative)for text and image responses across AI tools like ChatGPT, Gemini, Meta, and Claude AI.
-    ### Achievements(Research Work)
-      - Presented research on AI’s TRANSFORMATIVE IMPACT ON HIGHER EDUCATION at the Society of North American Scholars Interdisciplinary 3rd conference(Oct 2024) - Link
-      - Abstract titled EXPLORING USER BIAS AND RESPONSE VARIABILITY IN GENERATIVE AI SYSTEMS accepted for presentation by the SWDSI 54th Annual Conference(Mar 2025).
-
-## → Operations Research Intern (OR&AA) (Unpaid) - American Airlines, USA Sep 2023 - Dec 2023                                          
+## → Data Scientist (OR&AA) - American Airlines, USA  Sep 2023 - Dec 2023       
   - Applied CRISP-DM methodology (6 steps process) to initiate flight research, aligning it with strategic business objectives.                                          
   - Deep dived into the dataset(6.5M records) and extracted descriptive statistics.                                                                                    
   - Generated visualizations with the help of matplotlib, seaborn libraries to know about the nature of the data points.                                          
@@ -115,19 +112,30 @@ Team Player
     ### Findouts                                                                                                                              
   - Detected a 50% drop of baggage counts due to rainfall and thunderstorm during diagnostic stage by analyzing residual plots.                                          
 
-## → Data Management Analyst – Citibank, India Nov 2021 - Jan 2023                                                                                    
-  - Developed a data quality project using SAS, adhering to the rules of California Consumer Privacy Act (CCPA) 2020.                                          
-  - Implemented concepts like import, arrays, functions to read unstructured python file into SAS EG8 platform with 40% faster.                                          
-  - Streamlined the process using UNIX, SQL commands such as unzip, joins, subqueries and automated the report in Autosys.                                          
-  - Focused on data leakage by performing quality check in the BRS file and tagging missed data using case when conditions.                                          
-  - Migrated data from CMR to MDM engine and ensured data quality stewardship with 76% reliability.                                          
-
-## → Data Analyst - ICICI Bank, India Mar 2019 - Oct 2021                                                                                    
-  - Imported the data files in SAS EG, using proc import, import wizard, set, select statements specifying sheet name, delimiters.                                          
-  - Developed 10 individual reports on calls and visits, assets, loans for both current non-managed and managed customers.                                          
-  - Developed VB, DBM dashboards using SAS reports at PAN-India level, included drill downs using compute statement.                                          
-  - Accelerated decision making by 20% faster through managed portfolio, and fortnightly opportunity tracker reports.                                          
-  - Prepared a customized report to track each employee transaction inflow & outflow(TOI) by BI teams with 10X faster speed.                                             
+## → Data Scientist – Citibank Nov 2021 - Jan 2023                                                                                    
+  - Developed an Automated Feature Engineering Pipeline using Featuretools, improving model accuracy for detecting fraudulent transactions.                                  
+  - Leveraged XGBoost for Classification to predict missing data points in customer records, achieving an accuracy improvement of 15% in data imputation.                      - Designed ETL Pipelines using Apache Airflow to orchestrate data migration from CMR to the MDM engine, ensuring 76% reliability in data stewardship.
+  - Optimized Data Processing using Dask for parallelized computing, reducing unstructured file processing time by 40% compared to traditional SAS scripts.                    - Enhanced Data Quality Audits by implementing SQL queries for faster data validation, cleansing, and compliance checks under CCPA 2020 guidelines.
+  - Automated Report Generation & Scheduling using Autosys and Pandas Profiling, cutting down manual data validation time by 30%, improving efficiency in compliance 
+    reporting.
+  - Applied Principal Component Analysis (PCA) to reduce dimensionality in high-cardinality customer attributes, optimizing storage and improving data retrieval efficiency 
+    by 25%.
+  - Streamlined the data ingestion process by using UNIX commands like unzip, grep, and awk to extract, clean, and preprocess unstructured data before loading it into SAS 
+    EG8.
+  - Ensured data integrity and compliance by using joins, subqueries, and case-when conditions to detect and tag missing or inconsistent records in the data file.
+    
+## → Data Analyst - ICICI Bank, Mar 2019 - Oct 2021                                                                                    
+  - Imported and processed large datasets in SAS EG, utilizing PROC IMPORT, PROC SQL, and DATA STEP to efficiently handle structured banking data across multiple sheets and 
+    delimiters.   
+  - Designed and automated portfolio reports using PROC REPORT and COMPUTE STATEMENTS, providing real-time insights on customer transactions, assets, and loan performance.  
+  - Enhanced data visualization in SAS by implementing PROC TABULATE and PROC GCHART, enabling branch managers to monitor financial trends and portfolio distributions.
+  - Optimized data retrieval and processing speed by applying PROC SORT, indexing techniques, and SAS macros, reducing query execution time by 35%.
+  - Developed an Opportunity Tracker in SAS, using CASE WHEN and JOIN operations to identify maturing financial products and increase customer retention by 18%.
+  - Implemented customer segmentation models using K-Means Clustering in SAS Enterprise Miner, categorizing high-value customers based on transaction behaviors and product 
+    holdings.
+  - Built a predictive model using Logistic Regression in SAS to forecast loan defaults, improving risk assessment and reducing bad debt exposure by 12%.
+  - Delivered executive-level insights by translating complex SAS-generated reports into interactive dashboards, facilitating data-driven decision-making for Business 
+    Intelligence Unit and Data Science & Analytics Group teams.
 
 # Projects
 
