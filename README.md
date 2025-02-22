@@ -165,10 +165,11 @@ Team Player
 
 
 # Honors & Recognitions
-- Selected in the top 10% out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
-- Achieved 2nd runner up out of 150 teams in American Airlines Data Challenge(Dec 2023) | Link
-- Received Silver and Bronze Awards in Citi bank
-- Received Work Excellence Award in ICICI bank
+- Selected in the **top 10%** out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
+- Achieved **2nd runner up** out of 150 teams in American Airlines Data Challenge(Dec 2023) | Link
+- Received **Silver Award** in Citi bank for California Consumer Privacy Act 2020, CMR project. 
+-	Received **Bronze Award** in Citi Bank for CMR to MDM migration project.
+- Received **Work Excellence Award** in ICICI bank
 
 
 
