@@ -149,7 +149,7 @@ Team Player
 </p>
 
 <p align="center">
-  <a href="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/edit/main/README.md">
+  <a href="https://github.com/RakeshsarmaKarra/Tableau-Dashboard">
     <img src="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard%20.jpg" width="300" height="200" alt="Philippines MCCT Program Dashboard">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-">
@@ -158,7 +158,7 @@ Team Player
 </p>
 
 <p align="center">
-  <a href="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/edit/main/README.md">
+  <a href="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/tree/main">
     <img src="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/blob/main/Project%20Management%20MSET%205050%20.jpg" width="300" height="200" alt="Project Management">
   </a>
 </p>
