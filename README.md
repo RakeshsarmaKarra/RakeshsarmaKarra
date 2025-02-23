@@ -162,11 +162,8 @@ Click on the image to view the project
   <a href="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/tree/main">
     <img src="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/blob/main/Project%20Management%20MSET%205050%20.jpg" width="300" height="200" alt="Project Management">
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project">
-    <img src="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20APP%20-%20Image.jpg" width="300" height="200" alt="Project Management">
+    <img src="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20APP%20-%20Image.jpg" width="300" height="200" alt="Project Management Capstone">
   </a>
 </p>
 
