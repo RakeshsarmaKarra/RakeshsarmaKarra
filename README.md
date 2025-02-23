@@ -164,6 +164,11 @@ Click on the image to view the project
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project">
+    <img src="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20APP%20-%20Image.jpg" width="300" height="200" alt="Project Management">
+  </a>
+</p>
 
 # Honors & Recognitions
 - Selected in the **top 10%** out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
