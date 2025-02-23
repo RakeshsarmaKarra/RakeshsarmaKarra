@@ -137,7 +137,8 @@ Team Player
   - Delivered executive-level insights by translating complex SAS-generated reports into interactive dashboards, facilitating data-driven decision-making for Business 
     Intelligence Unit and Data Science & Analytics Group teams.
 
-# Projects
+# Projects 
+Click on the image to view the project
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
