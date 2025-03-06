@@ -9,7 +9,7 @@
 📍 Based in Texas, USA                                                                                                                                                
 
 ## Trainings & Certifications
-- IBM Data Science Professional Certificate | Coursera
+- IBM Data Science Professional Certificate | Coursera | [Link](https://coursera.org/share/17c578c9efadbafcf6fcdd1dabfd18cc)
 - AI Facilitated Learning Network | Texas Higher Education Co-ordinating Board | [Link](https://www.google.com/url?q=https%3A%2F%2Fwww.credly.com%2Fbadges%2F1235b0b3-9486-4fe3-9c62-58f4d0b085b7%2Fpublic_url)
 - AI Fundamentals | UNT | [Link](https://www.google.com/url?q=https%3A%2F%2Fbadgr.com%2Fpublic%2Fpathway%2F66227cedea4ee96b412e59ad%2Felement%2F66227cedea4ee96b412e59ac)
 - AI Python for Beginners | Andrew Ng | [Link](https://www.google.com/url?q=https%3A%2F%2Flearn.deeplearning.ai%2Faccomplishments%2F51a74ab7-763e-4f29-9d43-67970403074c%3Fusp%3Dsharing)
