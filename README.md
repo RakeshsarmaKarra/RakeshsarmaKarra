@@ -167,6 +167,11 @@ Click on the image to view the project
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/tree/main">
+    <img src="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/IBM%20Data%20Science%20Capstone%20Project%20Picture.jpg" width="300" height="200" alt="Project Management">
+  </a>
+  
 # Honors & Recognitions
 - Selected in the **top 10%** out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
 - Achieved **2nd runner up** out of 150 teams in American Airlines Data Challenge(Dec 2023) | Link
