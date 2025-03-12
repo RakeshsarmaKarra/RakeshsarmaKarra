@@ -16,9 +16,11 @@
 - Cloud Computing FOundations | Duke University(Coursera) | [Link](https://www.google.com/url?q=https%3A%2F%2Fcoursera.org%2Fshare%2F23a43f216a8ab5b00050e62846cda5bd)
 - Databricks Fundamentals Accreditation | [Link](https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F12io6XdrBnCeve7imj1E1WmUqNKGjiOjP%2Fview%3Fusp%3Dsharing)
 
-## Learning Platforms                                                                                                                                
-Coursera certifications | [Link](https://www.google.com/url?q=https%3A%2F%2Fwww.coursera.org%2Fuser%2Fa8257f920a2ec528f7dbb2e0fd936527)                                
-Data Camp | [Link](https://www.google.com/url?q=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Frakeshsarmakarra)                                                                
+## Professional Profiles & Learning Platforms                                                                                                                                
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.linkedin.com/in/rakesh-da/)
+[![Tableau](https://img.shields.io/badge/tableaupublic-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://public.tableau.com/app/profile/rakesh.sarma.karra/vizzes)
+[![Coursera](https://img.shields.io/badge/Coursera-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.google.com/url?q=https%3A%2F%2Fwww.coursera.org%2Fuser%2Fa8257f920a2ec528f7dbb2e0fd936527)                                
+[![Datacamp](https://img.shields.io/badge/Datacamp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.google.com/url?q=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Frakeshsarmakarra)                                                                
 
 I have implemented multiple machine learning models, including parameter tweakings etc. in various projects.                                                                  
 ### Predictive Analytics(ML)                                                                                                                                
