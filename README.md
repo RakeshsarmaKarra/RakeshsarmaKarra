@@ -13,7 +13,7 @@
 - AI Facilitated Learning Network | Texas Higher Education Co-ordinating Board | [Link](https://www.google.com/url?q=https%3A%2F%2Fwww.credly.com%2Fbadges%2F1235b0b3-9486-4fe3-9c62-58f4d0b085b7%2Fpublic_url)
 - AI Fundamentals | UNT | [Link](https://www.google.com/url?q=https%3A%2F%2Fbadgr.com%2Fpublic%2Fpathway%2F66227cedea4ee96b412e59ad%2Felement%2F66227cedea4ee96b412e59ac)
 - AI Python for Beginners | Andrew Ng | [Link](https://www.google.com/url?q=https%3A%2F%2Flearn.deeplearning.ai%2Faccomplishments%2F51a74ab7-763e-4f29-9d43-67970403074c%3Fusp%3Dsharing)
-- Cloud Computing FOundations | Duke University(Coursera) | [Link](https://www.google.com/url?q=https%3A%2F%2Fcoursera.org%2Fshare%2F23a43f216a8ab5b00050e62846cda5bd)
+- Cloud Computing Foundations | Duke University(Coursera) | [Link](https://www.google.com/url?q=https%3A%2F%2Fcoursera.org%2Fshare%2F23a43f216a8ab5b00050e62846cda5bd)
 - Databricks Fundamentals Accreditation | [Link](https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F12io6XdrBnCeve7imj1E1WmUqNKGjiOjP%2Fview%3Fusp%3Dsharing)
 
 ## Professional Profiles & Learning Platforms                                                                                                                                
