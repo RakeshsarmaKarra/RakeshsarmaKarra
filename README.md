@@ -64,20 +64,20 @@ Business Improvements
 Agile                                                                                                                                
 Waterfall                                                                                                                                
 Project Plan                                                                                                                                
-30% - 70% rule                                                                                                                                
+30% - 70% rule                                                                                                                
+Risk Register                                                                                                                                
+User Stories   
 Communication plan                                                                                                                                
 Planning Milestones                                                                                                                                
-Work Breakdown Structure                                                                                                                                
-Quality Management Plan                                                                                                                                
-Risk Mitigation Plan                                                                                                                                
-Risk Register                                                                                                                                
-User Stories                                                                                                                                
+Risk Mitigation Plan
+Quality Management Plan
+Work Breakdown Structure 
 
 ### Soft Skills                                                                                                                                
 Excellent Written & Verbal Communication                                                                                                                                
 Analytical Decision Making                                                                                                                                     
+Storytelling Abilities
 Problem Solving                                                                                                                                
-Storytelling Abilities                                                                                                                                
 Team Player                                                                                                                                
 
 ## Programming Languages  
