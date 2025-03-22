@@ -67,10 +67,10 @@ Project Plan
 30% - 70% rule                                                                                                                
 Risk Register                                                                                                                                
 User Stories   
-Communication plan                                                                                                                                
-Planning Milestones                                                                                                                                
-Risk Mitigation Plan
-Quality Management Plan
+Communication plan                                                                                                                                                         
+Planning Milestones                                                                                                                                                          
+Risk Mitigation Plan                                                                                                                                    
+Quality Management Plan                                                                                                   
 Work Breakdown Structure 
 
 ### Soft Skills                                                                                                                                
