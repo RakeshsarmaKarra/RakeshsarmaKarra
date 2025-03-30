@@ -152,8 +152,8 @@ Click on the image to view the project
 </p>
 
 <p align="center">
-  <a href="https://github.com/RakeshsarmaKarra/Tableau-Dashboard">
-    <img src="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard%20.jpg" width="300" height="200" alt="Philippines MCCT Program Dashboard">
+  <a href="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon">
+    <img src="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon/blob/main/UNT_Business_Analytics_Hack_a_thon.png" width="300" height="200" alt="UNT Business Analytics Hack-a-thon">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-">
     <img src="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-/blob/main/User%20Interface.png" width="300" height="200" alt="TA Eligibility Predictor">
@@ -173,7 +173,10 @@ Click on the image to view the project
   <a href="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/tree/main">
     <img src="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/IBM%20Data%20Science%20Capstone%20Project%20Picture.jpg" width="300" height="200" alt="Project Management">
   </a>
-  
+  <a href="https://github.com/RakeshsarmaKarra/Tableau-Dashboard">
+    <img src="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard%20.jpg" width="300" height="200" alt="Philippines MCCT Program Dashboard">
+  </a>
+</p>
 # Honors & Recognitions
 - Selected in the **top 10%** out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
 - Achieved **2nd runner up** out of 150 teams in American Airlines Data Challenge(Dec 2023) | Link
