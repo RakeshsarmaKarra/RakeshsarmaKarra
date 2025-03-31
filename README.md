@@ -177,6 +177,7 @@ Click on the image to view the project
     <img src="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard%20.jpg" width="300" height="200" alt="Philippines MCCT Program Dashboard">
   </a>
 </p>
+
 # Honors & Recognitions
 - Selected in the **top 10%** out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
 - Achieved **2nd runner up** out of 150 teams in American Airlines Data Challenge(Dec 2023) | Link
