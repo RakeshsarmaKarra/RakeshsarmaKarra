@@ -6,7 +6,11 @@
 📊 Skilled in data visualization, predictive modeling, and statistical analysis to drive business decisions                                    
 🚀 Passionate about AI, cloud technologies, and optimizing ML models for real-world applications                                                                        
 🌟 Highly motivated and self-confident, with the ability to tackle challenges and perform under pressure                                    
-📍 Based in Texas, USA                                                                                                                                                
+📍 United States
+
+## 📫 **Contact me:** 
+- Email: rakeshs.karra@gmail.com
+- Mobile: +1 8327105561
 
 ## Trainings & Certifications
 - IBM Data Science Professional Certificate | Coursera | [Link](https://coursera.org/share/17c578c9efadbafcf6fcdd1dabfd18cc)
