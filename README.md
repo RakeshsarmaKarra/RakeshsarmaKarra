@@ -182,7 +182,18 @@ Click on the image to view the project
   </a>
 </p>
 
+# Research Work
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption">
+    <img src="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption/blob/main/AI%20In%20Action%20Poster%20-%20Final.jpg" width="300" height="200" alt="Ethical Considerations in AI">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems">
+    <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Generative_AI_Bias_Hallucination.jpg" width="300" height="200" alt="AI Bias and Hallucinations">
+  </a>
+</p>
+
 # Honors & Recognitions
+- Achieved **2nd runner up** for **Exploring User Bias and Hallucinations in Generative AI Systems** (poster presentation) in **AI In Action** Workshop.
 - Selected in the **top 10%** out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
 - Achieved **2nd runner up** out of 150 teams in American Airlines Data Challenge(Dec 2023) | Link
 - Received **Silver Award** in Citi bank for California Consumer Privacy Act 2020, CMR project. 
