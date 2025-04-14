@@ -97,7 +97,7 @@ Team Player
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/) [![SAS Viya](https://img.shields.io/badge/SAS%20Viya-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
 
 # Experience
-## → Research Data Scientist - University of North Texas, Texas Jan 2024 - Dec 2024
+## → Research Assistant - University of North Texas, Texas Jan 2024 - Dec 2024
   - Led discussions on BigQuery, Vertex AI in GCP, guiding students in data storage, retrieval, and ML model deployment.
   - Designed and delivered Python-based lab sessions covering advanced machine learning, and big data analytics.
   - Conducted AI bias research, identifying and analyzing system, developer, and statistical biases in ML models.
