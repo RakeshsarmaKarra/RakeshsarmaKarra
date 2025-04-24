@@ -12,14 +12,6 @@
 - Email: rakeshs.karra@gmail.com
 - Mobile: +1 8327105561
 
-## Trainings & Certifications
-- IBM Data Science Professional Certificate | Coursera | [Link](https://coursera.org/share/17c578c9efadbafcf6fcdd1dabfd18cc)
-- AI Facilitated Learning Network | Texas Higher Education Co-ordinating Board | [Link](https://www.google.com/url?q=https%3A%2F%2Fwww.credly.com%2Fbadges%2F1235b0b3-9486-4fe3-9c62-58f4d0b085b7%2Fpublic_url)
-- AI Fundamentals | UNT | [Link](https://www.google.com/url?q=https%3A%2F%2Fbadgr.com%2Fpublic%2Fpathway%2F66227cedea4ee96b412e59ad%2Felement%2F66227cedea4ee96b412e59ac)
-- AI Python for Beginners | Andrew Ng | [Link](https://www.google.com/url?q=https%3A%2F%2Flearn.deeplearning.ai%2Faccomplishments%2F51a74ab7-763e-4f29-9d43-67970403074c%3Fusp%3Dsharing)
-- Cloud Computing Foundations | Duke University(Coursera) | [Link](https://www.google.com/url?q=https%3A%2F%2Fcoursera.org%2Fshare%2F23a43f216a8ab5b00050e62846cda5bd)
-- Databricks Fundamentals Accreditation | [Link](https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F12io6XdrBnCeve7imj1E1WmUqNKGjiOjP%2Fview%3Fusp%3Dsharing)
-
 ## Professional Profiles & Learning Platforms                                                                                                                                
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-da/)
 [![Tableau](https://img.shields.io/badge/Tableau%20Public-FF7300?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rakesh.sarma.karra/vizzes)
@@ -192,10 +184,48 @@ Click on the image to view the project
   </a>
 </p>
 
+# Trainings & Certifications
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="300" height="200" alt="IBM Data Science Professional Certificate">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20-%20FLN%2C%20THECB%20-%20Certificate.jpg" width="300" height="200" alt="AI Facilitated Learning Network">
+  </a>  
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Fundamentals%20Certificate.jpg" width="300" height="200" alt="AI Fundamentals">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Python%20for%20Beginners.jpg" width="300" height="200" alt="AI Python for Beginners">
+  </a>  
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Cloud%20Computing%20Foundations.jpg" width="300" height="200" alt="Cloud Computing Foundations">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Databricks%20Fundamentals.jpg" width="300" height="200" alt="Databricks Fundamentals Accreditation">
+  </a>  
+</p>
+
+
 # Honors & Recognitions
-- Achieved **2nd runner up** for **Exploring User Bias and Hallucinations in Generative AI Systems** (poster presentation) in **AI In Action** Workshop.
-- Selected in the **top 10%** out of 400 teams in Humana Healthcare Analytics Case Competition(Nov 2024) | Link
-- Achieved **2nd runner up** out of 150 teams in American Airlines Data Challenge(Dec 2023) | Link
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems">
+    <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Poster%20Presentation%20Winner.jpeg" width="300" height="200" alt="AI Bias and Hallucinations">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20-%20Top%2050.jpg" width="300" height="200" alt="AI Python for Beginners">
+  </a>  
+</p>
+
+<p align="center">
+  <a href="American Airlines Data Challenge">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/American%20Airlines%20winning%20certificate.jpg" width="300" height="200" alt="American Airlines Data Challenge">
+  </a>
+  
+
 - Received **Silver Award** in Citi bank for California Consumer Privacy Act 2020, CMR project. 
 -	Received **Bronze Award** in Citi Bank for CMR to MDM migration project.
 - Received **Work Excellence Award** in ICICI bank
