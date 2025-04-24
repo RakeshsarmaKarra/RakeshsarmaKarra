@@ -192,15 +192,18 @@ Click on the image to view the project
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20-%20FLN%2C%20THECB%20-%20Certificate.jpg" width="300" height="200" alt="AI Facilitated Learning Network">
   </a>  
-  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Fundamentals%20Certificate.jpg" width="300" height="200" alt="AI Fundamentals">
-  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Fundamentals%20Certificate.jpg" width="300" height="200" alt="AI Fundamentals">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Python%20for%20Beginners.jpg" width="300" height="200" alt="AI Python for Beginners">
   </a>  
+</p>
+
+<p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Cloud%20Computing%20Foundations.jpg" width="300" height="200" alt="Cloud Computing Foundations">
   </a>
@@ -208,7 +211,6 @@ Click on the image to view the project
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Databricks%20Fundamentals.jpg" width="300" height="200" alt="Databricks Fundamentals Accreditation">
   </a>  
 </p>
-
 
 # Honors & Recognitions
 <p align="center">
