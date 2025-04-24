@@ -12,6 +12,9 @@
 - Email: rakeshs.karra@gmail.com
 - Mobile: +1 8327105561
 
+## 📄 **Resume**
+- [Click here](https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Rakesh_Sarma_Karra_Resume.pdf)
+  
 ## Professional Profiles & Learning Platforms                                                                                                                                
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-da/)
 [![Tableau](https://img.shields.io/badge/Tableau%20Public-FF7300?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rakesh.sarma.karra/vizzes)
