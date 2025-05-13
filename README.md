@@ -221,14 +221,36 @@ Click on the image to view the project
     <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Poster%20Presentation%20Winner.jpeg" width="300" height="200" alt="AI Bias and Hallucinations">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
-    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20-%20Top%2050.jpg" width="300" height="200" alt="AI Python for Beginners">
+    <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Rakeshsarma%20Karra%20-%20Award.jpg" width="300" height="200" alt="AI In Action">
+  </a>  
+</p>
+
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Presentation.jpg" width="300" height="200" alt="Humana">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20-%20Top%2050.jpg" width="300" height="200" alt="Humana">
   </a>  
 </p>
 
 <p align="center">
   <a href="American Airlines Data Challenge">
-    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/American%20Airlines%20winning%20certificate.jpg" width="300" height="200" alt="American Airlines Data Challenge">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20-%20DFW.jpg" width="300" height="200" alt="AA">
   </a>
+  <a href="American Airlines Data Challenge">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/American%20Airlines%20winning%20certificate.jpg" width="300" height="200" alt="AA">
+  </a>  
+</p>
+
+<p align="center">
+  <a href="Tution Benifit Program - Toulouse Graduate School">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/TBP%20Award%20Spring'24.jpg" width="300" height="200" alt="Spring 2024">
+  </a>
+  <a href="Tution Benifit Program - Toulouse Graduate School">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/TBP%20Award%20Fall'24.jpg" width="300" height="200" alt="Fall 2024">
+  </a>  
+</p>
   
 
 - Received **Silver Award** in Citi bank for California Consumer Privacy Act 2020, CMR project. 
