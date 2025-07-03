@@ -128,17 +128,15 @@ Team Player
   - Ensured data integrity and compliance by using joins, subqueries, and case-when conditions to detect and tag missing or inconsistent records in the data file.
     
 ## → Data Analyst - ICICI Bank, Hyderabad Mar 2019 - Oct 2021                                                                                    
-  - Imported and processed large datasets in SAS EG, utilizing PROC IMPORT, PROC SQL, and DATA STEP to efficiently handle structured banking data across multiple sheets and 
-    delimiters.   
-  - Designed and automated portfolio reports using PROC REPORT and COMPUTE STATEMENTS, providing real-time insights on customer transactions, assets, and loan performance.  
-  - Enhanced data visualization in SAS by implementing PROC TABULATE and PROC GCHART, enabling branch managers to monitor financial trends and portfolio distributions.
-  - Optimized data retrieval and processing speed by applying PROC SORT, indexing techniques, and SAS macros, reducing query execution time by 35%.
-  - Developed an Opportunity Tracker in SAS, using CASE WHEN and JOIN operations to identify maturing financial products and increase customer retention by 18%.
-  - Implemented customer segmentation models using K-Means Clustering in SAS Enterprise Miner, categorizing high-value customers based on transaction behaviors and product 
-    holdings.
-  - Built a predictive model using Logistic Regression in SAS to forecast loan defaults, improving risk assessment and reducing bad debt exposure by 12%.
-  - Delivered executive-level insights by translating complex SAS-generated reports into interactive dashboards, facilitating data-driven decision-making for Business 
-    Intelligence Unit and Data Science & Analytics Group teams.
+  - Automated portfolio performance reporting using PROC REPORT, COMPUTE STATEMENTS, and dynamic SAS macros, cutting manual reporting time by 60% and delivering real-time insights on assets across transactions, loans, and customer behavior.
+  - Processed multi-source banking datasets from Excel, CSV, and database connectors using PROC IMPORT, DATA STEP, and PROC SQL, enabling seamless integration of over 2 million structured records across 22 investment banking products. 
+  - Enhanced visualization efficiency by implementing PROC TABULATE, PROC GCHART, and template-driven reporting, boosting branch-level financial monitoring coverage by 45%.
+  - Developed and deployed a SAS-based Opportunity Tracker, utilizing CASE WHEN, JOIN, and ranking logic to identify maturing deposits and loan renewals—increased customer retention by 18% over two quarters.
+  - Optimized data retrieval and processing pipelines using PROC SORT, SAS indexing, and dynamic macro variables—reduced query latency by 35% in fraud and compliance report generation.
+  - Built predictive risk models in SAS Enterprise Miner and Python (Scikit-learn), including Logistic Regression and Random Forest, improving loan default prediction accuracy by 12%, contributing to smarter underwriting.
+  - Implemented K-Means Clustering in SAS and Python, segmenting 4M customers by behavior and portfolio holdings, directly supporting targeted marketing campaigns and increasing cross-sell conversion by 22%.
+  - Utilized Python (pandas, matplotlib, seaborn) to prototype fraud detection dashboards and validate SAS outputs, ensuring data quality and stakeholder trust across BI and Risk teams.
+  - Translated technical models and analytics outputs into executive-ready dashboards and PowerPoint summaries, helping the Data Science & Analytics Group deliver actionable insights to senior stakeholders and regulatory compliance teams.
 
 # Projects 
 Click on the image to view the project
