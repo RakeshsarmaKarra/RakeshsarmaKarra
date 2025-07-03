@@ -115,7 +115,8 @@ Team Player
 
 ## → Data Scientist – Citibank, California Nov 2021 - Jan 2023                                                                                    
   - Developed an Automated Feature Engineering Pipeline using Featuretools, improving model accuracy for detecting fraudulent transactions.                                  
-  - Leveraged XGBoost for Classification to predict missing data points in customer records, achieving an accuracy improvement of 15% in data imputation.                      - Designed ETL Pipelines using Apache Airflow to orchestrate data migration from CMR to the MDM engine, ensuring 76% reliability in data stewardship.
+  - Leveraged XGBoost for Classification to predict missing data points in customer records, achieving an accuracy improvement of 15% in data imputation.
+  - Designed ETL Pipelines using Apache Airflow to orchestrate data migration from CMR to the MDM engine, ensuring 76% reliability in data stewardship.
   - Optimized Data Processing using Dask for parallelized computing, reducing unstructured file processing time by 40% compared to traditional SAS scripts.
   - Enhanced Data Quality Audits by implementing SQL queries for faster data validation, cleansing, and compliance checks under CCPA 2020 guidelines.
   - Automated Report Generation & Scheduling using Autosys and Pandas Profiling, cutting down manual data validation time by 30%, improving efficiency in compliance 
