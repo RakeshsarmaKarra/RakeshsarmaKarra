@@ -127,7 +127,7 @@ Team Player
     EG8.
   - Ensured data integrity and compliance by using joins, subqueries, and case-when conditions to detect and tag missing or inconsistent records in the data file.
     
-## → Data Analyst - ICICI Bank, Hyderabad Mar 2019 - Oct 2021                                                                                    
+## → Data Analyst & Portfolio Analytics - ICICI Bank, Hyderabad Mar 2019 - Oct 2021                                                                                    
   - Automated portfolio performance reporting using PROC REPORT, COMPUTE STATEMENTS, and dynamic SAS macros, cutting manual reporting time by 60% and delivering real-time insights on assets across transactions, loans, and customer behavior.
   - Processed multi-source banking datasets from Excel, CSV, and database connectors using PROC IMPORT, DATA STEP, and PROC SQL, enabling seamless integration of over 2 million structured records across 22 investment banking products. 
   - Enhanced visualization efficiency by implementing PROC TABULATE, PROC GCHART, and template-driven reporting, boosting branch-level financial monitoring coverage by 45%.
