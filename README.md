@@ -21,6 +21,8 @@
 [![Tableau](https://img.shields.io/badge/Tableau%20Public-FF7300?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rakesh.sarma.karra/vizzes)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/a8257f920a2ec528f7dbb2e0fd936527)
 [![Datacamp](https://img.shields.io/badge/Datacamp-03A678?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/rakeshsarmakarra)
+[![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rakeshsarma-karra)
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/s/ukskrVg_e-g)
 
 I have implemented multiple machine learning models, including parameter tweakings etc. in various projects.                                                                  
 ### Predictive Analytics(ML)                                                                                                                                
