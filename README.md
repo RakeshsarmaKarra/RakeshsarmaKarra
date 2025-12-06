@@ -1,7 +1,7 @@
 
 ## 👋 About Me                                                                                                                                                
 🎓 Graduated Student from UNT, majored in **Advanced Data Analytics**, USA                                                                        
-🔍 5+ years of experience as a Data Scientist & Analyst (including hands-on projects in the master’s program)                                    
+🔍 5+ years of experience as a Data Scientist & Analytics Professional                                    
 💡 Expertise in machine learning – Supervised, Semi-Supervised, and Unsupervised models using Python & R                                    
 📊 Skilled in data visualization, predictive modeling, and statistical analysis to drive business decisions                                    
 🚀 Passionate about AI, cloud technologies, and optimizing ML models for real-world applications                                                                        
