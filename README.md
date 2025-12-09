@@ -23,6 +23,7 @@
 [![Datacamp](https://img.shields.io/badge/Datacamp-03A678?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/rakeshsarmakarra)
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rakeshsarma-karra)
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/s/ukskrVg_e-g)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!E9Rq4xFLh0i89EdsDLTWuprd9ridbE5Nstke9R0JJrTI-vn2dpNVRoCbGRO2gvS7&itemId=01QOIC2C2IYXUBEPDPUZALLGPNAGILMIGL)
 
 I have implemented multiple machine learning models, including parameter tweakings etc. in various projects.                                                                  
 ### Predictive Analytics(ML)                                                                                                                                
