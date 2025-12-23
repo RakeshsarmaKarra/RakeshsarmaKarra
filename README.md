@@ -96,7 +96,7 @@ Team Player
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/) [![SAS Viya](https://img.shields.io/badge/SAS%20Viya-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
 
 # Experience
-## Volunteer Data Analyst - Community Dreams, United States April 2024 – Present
+## → Volunteer Data Analyst - Community Dreams, United States April 2024 – Present
 -	Spearheaded an end-to-end data analysis project on New Jersey Title 1 schools, leveraging Python to extract, clean, and merge multi-format data sources for comprehensive student enrolment insights across 102 schools and 19 counties.
 -	Developed robust data validation and entity matching solutions, including advanced string-matching logic to resolve discrepancies between district names across messy PDFs, Excel files, ensuring high data quality and accuracy in final reports.
 -	Designed and implemented interactive dashboards in Google Looker Studio to visualize county and school-level enrolment patterns, enabling stakeholders to identify geographic concentrations and variances for targeted outreach and resource allocation. 
