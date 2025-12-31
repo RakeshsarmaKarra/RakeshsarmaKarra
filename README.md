@@ -25,63 +25,22 @@
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/s/ukskrVg_e-g)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!E9Rq4xFLh0i89EdsDLTWuprd9ridbE5Nstke9R0JJrTI-vn2dpNVRoCbGRO2gvS7&itemId=01QOIC2C2IYXUBEPDPUZALLGPNAGILMIGL)
 
-I have implemented multiple machine learning models, including parameter tweakings etc. in various projects.                                                                  
-### Predictive Analytics(ML)                                                                                                                                
-Linear                                                                                                                                
-Logistic                                                                                                                                
-Random Forest                                                                                                                                
-K-means                                                                                                                                
-K-Nearest Neighbor                                                                                                                                
-Support Vector Machines                                                                                                                                
-Extreme Gradient Boosting(XGBoost)                                                                                                                                
-Light Gradient Boosting(Light GBM)                                                                                                                                
-Naive Bayes                                                                                                                                
-Artificial Neural Networks                                                                                                                                
-Classification and Regression Tree                                                                                                                                
-Auto-Regressive Integrated Moving Average(ARIMA)                                                                                                       
-Seasonal Auto-Regressive Integrated Moving Average(SSeasonal ARIMA)                                                                                 
-
-### Hyper-parameter Tunings                                                                                                                                
-Ridge Regularization                                                                                                                                
-Lasso Regularization                                                                                                                                
-Cross Validation                                                                                                                                
-Random Search                                                                                                                                
-Grid Search                                                                                                                                
-
-### Data Science Concepts                                                                                                                                
-Extract, Transform and Load(ETL) Process                                                                                                                                
-Exploratory Data Analysis                                                                                                                                
-Hypothesis Testing(p-value significance)                                                                                                                                
-Feature Engineering                                                                                                                                
-SHAPLEY Values                                                                                                                                
-Root Cause Analysis                                                                                                                                
-A/B Testing                                                                                                                                
-
-### Prescriptive Analytics                                                                                                                                
-Competitor Analysis                                                                                                                                
-Recommendations                                                                                                                                
-KPIs                                                                                                                                
-Business Improvements                                                                                                                                
-
-### Project Management                                                                                                                                
-Agile                                                                                                                                
-Waterfall                                                                                                                                
-Project Plan                                                                                                                                
-30% - 70% rule                                                                                                                
-Risk Register                                                                                                                                
-User Stories   
-Communication plan                                                                                                                                                         
-Planning Milestones                                                                                                                                                          
-Risk Mitigation Plan                                                                                                                                    
-Quality Management Plan                                                                                                   
-Work Breakdown Structure 
-
-### Soft Skills                                                                                                                                
-Excellent Written & Verbal Communication                                                                                                                                
-Analytical Decision Making                                                                                                                                     
-Storytelling Abilities
-Problem Solving                                                                                                                                
-Team Player                                                                                                                                
+## 📊 Skills & Expertise Matrix
+| **🤖 Predictive Analytics & Machine Learning** | **⚙️ Hyper-Parameter Tuning** | **Data Science Concepts** | **📈 Prescriptive Analytics** | **🗂️ Project Management**   | **🧠 Soft Skills**            |
+| ----------------------------- | -------------------------- | ------------------------- | -------------------------- | ------------------------ | -------------------------- |
+| Linear Regression             | Ridge Regularization       | ETL Process               | Competitor Analysis        | Agile                    | Written Communication      |
+| Logistic Regression           | Lasso Regularization       | Exploratory Data Analysis | Recommendations            | Waterfall                | Verbal Communication       |
+| Random Forest                 | Cross Validation           | Hypothesis Testing        | KPIs                       | Project Plan             | Analytical Decision Making |
+| K-Means Clustering            | Grid Search                | Feature Engineering       | Business Improvements      | 30%–70% Rule             | Storytelling               |
+| K-Nearest Neighbors (KNN)     | Random Search              | SHAP Values               |                            | Risk Register            | Problem Solving            |
+| Support Vector Machines (SVM) |                            | Root Cause Analysis       |                            | User Stories             | Team Player                |
+| XGBoost                       |                            | A/B Testing               |                            | Communication Plan       |                            |
+| LightGBM                      |                            |                           |                            | Planning Milestones      |                            |
+| Naive Bayes                   |                            |                           |                            | Risk Mitigation Plan     |                            |
+| Artificial Neural Networks    |                            |                           |                            | Quality Management Plan  |                            |
+| CART (Decision Trees)         |                            |                           |                            | Work Breakdown Structure |                            |
+| ARIMA                         |                            |                           |                            |                          |                            |
+| Seasonal ARIMA (SARIMA)       |                            |                           |                            |                          |                            |                                                                                                           
 
 ## Programming Languages  
 
