@@ -81,7 +81,7 @@
     ### Findouts                                                                                                                              
   - Detected a 50% drop of baggage counts due to rainfall and thunderstorm during diagnostic stage by analyzing residual plots.                                          
 
-## → Data Scientist – Citibank, California Nov 2021 - Jan 2023                                                                                    
+## → Data Scientist – Citibank, Chennai(California customers) Nov 2021 - Jan 2023                                                                                    
   - Developed an Automated Feature Engineering Pipeline using Featuretools, improving model accuracy for detecting fraudulent transactions.                                  
   - Leveraged XGBoost for Classification to predict missing data points in customer records, achieving an accuracy improvement of 15% in data imputation.
   - Designed ETL Pipelines using Apache Airflow to orchestrate data migration from CMR to the MDM engine, ensuring 76% reliability in data stewardship.
