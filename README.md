@@ -111,121 +111,122 @@ Click on the image to view the project
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
-    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="300" height="200" alt="Humana-Mays 2024">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="400" height="250" alt="Humana-Mays 2024">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/README.md">
-    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg" width="300" height="200" alt="American Airlines Hackathon 2024">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg" width="400" height="265" alt="American Airlines Hackathon 2024">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon">
-    <img src="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon/blob/main/UNT_Business_Analytics_Hack_a_thon.png" width="300" height="200" alt="UNT Business Analytics Hack-a-thon">
+    <img src="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon/blob/main/UNT_Business_Analytics_Hack_a_thon.png" width="400" height="250" alt="UNT Business Analytics Hack-a-thon">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-">
-    <img src="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-/blob/main/User%20Interface.png" width="300" height="200" alt="TA Eligibility Predictor">
+    <img src="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-/blob/main/User%20Interface.png" width="400" height="210" alt="TA Eligibility Predictor">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/tree/main">
-    <img src="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/blob/main/Project%20Management%20MSET%205050%20.jpg" width="300" height="200" alt="Project Management">
+    <img src="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/blob/main/Project%20Management%20MSET%205050%20.jpg" width="400" height="250" alt="Project Management">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project">
-    <img src="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20APP%20-%20Image.jpg" width="300" height="200" alt="Project Management Capstone">
+    <img src="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20APP%20-%20Image.jpg" width="400" height="210" alt="Project Management Capstone">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/tree/main">
-    <img src="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/IBM%20Data%20Science%20Capstone%20Project%20Picture.jpg" width="300" height="200" alt="Project Management">
+    <img src="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/IBM%20Data%20Science%20Capstone%20Project%20Picture.jpg" width="400" height="223" alt="Project Management">
   </a>
-  <a href="https://github.com/RakeshsarmaKarra/Tableau-Dashboard">
-    <img src="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard%20.jpg" width="300" height="200" alt="Philippines MCCT Program Dashboard">
+  <a href="https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/tree/main">
+    <img src="https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/blob/main/2023_Spotify_Analysis_Report.jpg" width="400" height="225" alt="2023 Spotify Analysis Dashboard">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/tree/main">
-    <img src="https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/blob/main/2023_Spotify_Analysis_Report.jpg" width="300" height="200" alt="2023 Spotify Analysis Dashboard">
+  <a href="https://github.com/RakeshsarmaKarra/Tableau-Dashboard">
+    <img src="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard.jpg" width="400" height="250" alt="Philippines MCCT Program Dashboard">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/USA-Sales-Performance-Analysis-2014-2017-/tree/main">
-    <img src="https://github.com/RakeshsarmaKarra/USA-Sales-Performance-Analysis-2014-2017-/blob/main/USA%20sales%20dashboard%20picture.jpg" width="300" height="200" alt="Sales Performance Analysis">
+    <img src="https://github.com/RakeshsarmaKarra/USA-Sales-Performance-Analysis-2014-2017-/blob/main/USA%20sales%20dashboard%20picture.jpg" width="400" height="220" alt="Sales Performance Analysis">
   </a>
 </p>
+
 
 # Research Work(Volunteer)
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption">
-    <img src="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption/blob/main/AI%20In%20Action%20Poster%20-%20Final.jpg" width="300" height="200" alt="Ethical Considerations in AI">
+    <img src="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption/blob/main/AI%20In%20Action%20Poster%20-%20Final.jpg" width="400" height="250" alt="Ethical Considerations in AI">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems">
-    <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Generative_AI_Bias_Hallucination.jpg" width="300" height="200" alt="AI Bias and Hallucinations">
+    <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Generative_AI_Bias_Hallucination.jpg" width="400" height="250" alt="AI Bias and Hallucinations">
   </a>
 </p>
 
 # Trainings & Certifications
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="300" height="200" alt="IBM Data Science Professional Certificate">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="400" height="250" alt="IBM Data Science Professional Certificate">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20-%20FLN%2C%20THECB%20-%20Certificate.jpg" width="300" height="200" alt="AI Facilitated Learning Network">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20-%20FLN%2C%20THECB%20-%20Certificate.jpg" width="400" height="250" alt="AI Facilitated Learning Network">
   </a>  
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Fundamentals%20Certificate.jpg" width="300" height="200" alt="AI Fundamentals">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Fundamentals%20Certificate.jpg" width="400" height="250" alt="AI Fundamentals">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Python%20for%20Beginners.jpg" width="300" height="200" alt="AI Python for Beginners">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Python%20for%20Beginners.jpg" width="400" height="250" alt="AI Python for Beginners">
   </a>  
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Cloud%20Computing%20Foundations.jpg" width="300" height="200" alt="Cloud Computing Foundations">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Cloud%20Computing%20Foundations.jpg" width="400" height="250" alt="Cloud Computing Foundations">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Databricks%20Fundamentals.jpg" width="300" height="200" alt="Databricks Fundamentals Accreditation">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Databricks%20Fundamentals.jpg" width="400" height="250" alt="Databricks Fundamentals Accreditation">
   </a>  
 </p>
 
 # Honors & Recognitions
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems">
-    <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Poster%20Presentation%20Winner.jpeg" width="300" height="200" alt="AI Bias and Hallucinations">
+    <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Poster%20Presentation%20Winner.jpeg" width="400" height="250" alt="AI Bias and Hallucinations">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
-    <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Rakeshsarma%20Karra%20-%20Award.jpg" width="300" height="200" alt="AI In Action">
+    <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Rakeshsarma%20Karra%20-%20Award.jpg" width="400" height="250" alt="AI In Action">
   </a>  
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
-    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Presentation.jpg" width="300" height="200" alt="Humana">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Presentation.jpg" width="400" height="250" alt="Humana">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
-    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20-%20Top%2050.jpg" width="300" height="200" alt="Humana">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20-%20Top%2050.jpg" width="400" height="250" alt="Humana">
   </a>  
 </p>
 
 <p align="center">
   <a href="American Airlines Data Challenge">
-    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20-%20DFW.jpg" width="300" height="200" alt="AA">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20-%20DFW.jpg" width="400" height="250" alt="AA">
   </a>
   <a href="American Airlines Data Challenge">
-    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/American%20Airlines%20winning%20certificate.jpg" width="300" height="200" alt="AA">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/American%20Airlines%20winning%20certificate.jpg" width="400" height="250" alt="AA">
   </a>  
 </p>
 
 <p align="center">
   <a href="Tution Benifit Program - Toulouse Graduate School">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/TBP%20Award%20Spring'24.jpg" width="300" height="200" alt="Spring 2024">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/TBP%20Award%20Spring'24.jpg" width="400" height="250" alt="Spring 2024">
   </a>
   <a href="Tution Benifit Program - Toulouse Graduate School">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/TBP%20Award%20Fall'24.jpg" width="300" height="200" alt="Fall 2024">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/TBP%20Award%20Fall'24.jpg" width="400" height="250" alt="Fall 2024">
   </a>  
 </p>
   
