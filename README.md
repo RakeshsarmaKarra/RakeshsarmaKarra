@@ -145,6 +145,15 @@ Click on the image to view the project
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/tree/main">
+    <img src="https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/blob/main/2023_Spotify_Analysis_Report.jpg" width="300" height="200" alt="2023 Spotify Analysis Dashboard">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/USA-Sales-Performance-Analysis-2014-2017-/tree/main">
+    <img src="https://github.com/RakeshsarmaKarra/USA-Sales-Performance-Analysis-2014-2017-/blob/main/USA%20sales%20dashboard%20picture.jpg" width="300" height="200" alt="Sales Performance Analysis">
+  </a>
+</p>
+
 # Research Work(Volunteer)
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption">
