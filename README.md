@@ -113,7 +113,7 @@ Click on the image to view the project
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
     <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="400" height="250" alt="Humana-Mays 2024">
   </a>
-  <a href="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/README.md">
+  <a href="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/tree/main">
     <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg" width="400" height="265" alt="American Airlines Hackathon 2024">
   </a>
 </p>
