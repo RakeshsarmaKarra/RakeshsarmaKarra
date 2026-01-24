@@ -60,15 +60,16 @@
 -	Developed robust data validation and entity matching solutions, including advanced string-matching logic to resolve discrepancies between district names across messy PDFs, Excel files, ensuring high data quality and accuracy in final reports.
 -	Designed and implemented interactive dashboards in Google Looker Studio to visualize county and school-level enrolment patterns, enabling stakeholders to identify geographic concentrations and variances for targeted outreach and resource allocation. 
 
-## → Graduate Assistant Analyst - University of North Texas, Texas Jan 2024 - Dec 2024
+## → Teaching Assistant & Research Data Scientist(Volunteer) - University of North Texas, Texas Jan 2024 - Dec 2024
   - Led discussions on BigQuery, Vertex AI in GCP, guiding students in data storage, retrieval, and ML model deployment.
   - Designed and delivered Python-based lab sessions covering advanced machine learning, and big data analytics.
   - Conducted AI bias research, identifying and analyzing system, developer, and statistical biases in ML models.
   - Designed an AI reliability survey, revealing 68% of participants believed AI enhanced performance, providing insights into user trust and adoption.
   - Performed a comparative analysis of bias, hate speech detection, and sentiment classification across AI models from ChatGPT, Gemini, Meta AI, and Claude AI.
   - Mentored students on ML workflows, responsible AI, and bias mitigation strategies, ensuring ethical and effective AI model development.
-  - Applied data-driven research methods to assess the performance and limitations of state-of-the-art AI tools, optimizing their usage in real-world applications.
-
+  - Applied data-driven research methods to assess the performance and limitations of state-of-the-art AI tools, optimizing their usage in real-world applications.                                                                     
+  - **Find my research work in below sections**
+  
 ## → Data Scientist (OR&AA) - American Airlines, Texas  Sep 2023 - Dec 2023       
   - Applied CRISP-DM methodology (6 steps process) to initiate flight research, aligning it with strategic business objectives.                                          
   - Deep dived into the dataset(6.5M records) and extracted descriptive statistics.                                                                                    
