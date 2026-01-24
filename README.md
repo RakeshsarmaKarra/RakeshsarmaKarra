@@ -70,7 +70,7 @@
   - Applied data-driven research methods to assess the performance and limitations of state-of-the-art AI tools, optimizing their usage in real-world applications.                                                                     
   - **Find my research work in below sections**
   
-## → Data Scientist (OR&AA) - American Airlines, Texas  Sep 2023 - Dec 2023       
+## → Data Scientist Intern (OR&AA) - American Airlines, Texas  Sep 2023 - Dec 2023       
   - Applied CRISP-DM methodology (6 steps process) to initiate flight research, aligning it with strategic business objectives.                                          
   - Deep dived into the dataset(6.5M records) and extracted descriptive statistics.                                                                                    
   - Generated visualizations with the help of matplotlib, seaborn libraries to know about the nature of the data points.                                          
@@ -83,20 +83,13 @@
   - Detected a 50% drop of baggage counts due to rainfall and thunderstorm during diagnostic stage by analyzing residual plots.                                          
 
 ## → Data Scientist – Citibank, Chennai(California customers) Nov 2021 - Jan 2023                                                                                    
-  - Developed an Automated Feature Engineering Pipeline using Featuretools, improving model accuracy for detecting fraudulent transactions.                                  
-  - Leveraged XGBoost for Classification to predict missing data points in customer records, achieving an accuracy improvement of 15% in data imputation.
-  - Designed ETL Pipelines using Apache Airflow to orchestrate data migration from CMR to the MDM engine, ensuring 76% reliability in data stewardship.
-  - Optimized Data Processing using Dask for parallelized computing, reducing unstructured file processing time by 40% compared to traditional SAS scripts.
-  - Enhanced Data Quality Audits by implementing SQL queries for faster data validation, cleansing, and compliance checks under CCPA 2020 guidelines.
-  - Automated Report Generation & Scheduling using Autosys and Pandas Profiling, cutting down manual data validation time by 30%, improving efficiency in compliance 
-    reporting.
-  - Applied Principal Component Analysis (PCA) to reduce dimensionality in high-cardinality customer attributes, optimizing storage and improving data retrieval efficiency 
-    by 25%.
-  - Streamlined the data ingestion process by using UNIX commands like unzip, grep, and awk to extract, clean, and preprocess unstructured data before loading it into SAS 
-    EG8.
-  - Ensured data integrity and compliance by using joins, subqueries, and case-when conditions to detect and tag missing or inconsistent records in the data file.
-    
-## → Data Analyst & Portfolio Analytics - ICICI Bank, Hyderabad Mar 2019 - Oct 2021                                                                                    
+  - Developed an automated feature engineering and fraud detection pipeline using Featuretools and XGBoost, improving model accuracy for high risk transaction detection and data imputation by 15%.                                  
+  - Designed and orchestrated ETL workflows in Apache Airflow to migrate data from CMR to MDM, increasing data stewardship reliability to 76% and stabilizing downstream analytics.                                                
+  - Streamlined ingestion of large unstructured zip files into SAS by combining UNIX utilities (unzip, grep, awk) with SAS scripts, reducing data loading and preprocessing time by 40% compared to legacy workflows.                
+  - Enhanced data quality audits and compliance analytics using advanced SQL (CTE, joins, subqueries, case when) under CCPA 2020, accelerating validation and regulatory reporting.                                                
+  - Automated profiling and compliance reports with Python (Pandas Profiling) and scheduling tools(Autosys, Bit Bucket), cutting manual validation effort by ~30% and improving monitoring of data integrity.                                
+
+## → Data Scientist - ICICI Bank, Hyderabad Mar 2019 - Oct 2021                                                                                    
   - Automated portfolio performance reporting using PROC REPORT, COMPUTE STATEMENTS, and dynamic SAS macros, cutting manual reporting time by 60% and delivering real-time insights on assets across transactions, loans, and customer behavior.
   - Processed multi-source banking datasets from Excel, CSV, and database connectors using PROC IMPORT, DATA STEP, and PROC SQL, enabling seamless integration of over 2 million structured records across 22 investment banking products. 
   - Enhanced visualization efficiency by implementing PROC TABULATE, PROC GCHART, and template-driven reporting, boosting branch-level financial monitoring coverage by 45%.
