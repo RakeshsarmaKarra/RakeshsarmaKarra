@@ -112,6 +112,32 @@ Click on the image to view the project
   </a>
 </p>
 
+**Remove**
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="400" height="250" alt="Humana-Mays 2024">
+  </a>
+</p>
+<p align="center">
+  <strong>Tools:</strong> Python, SQL, BigQuery, Vertex AI<br>
+  <strong>Methodologies:</strong> EDA, Feature Engineering, XGBoost, Clustering, SHAP<br>
+  <strong>Results:</strong> ROC-AUC 0.76, 70% accuracy improvement, 40% uplift in engagement
+</p>
+
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/tree/main">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg" width="400" height="265" alt="American Airlines Hackathon 2024">
+  </a>
+</p>
+<p align="center">
+  <strong>Tools:</strong> Python, Pandas, Scikit-learn<br>
+  <strong>Methodologies:</strong> CRISP-DM, Random Forest, Time-based Feature Engineering<br>
+  <strong>Results:</strong> 78% improvement in demand forecasting, identified peak congestion windows
+</p>
+
+
+**Till Here**
+
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon">
     <img src="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon/blob/main/UNT_Business_Analytics_Hack_a_thon.png" width="400" height="250" alt="UNT Business Analytics Hack-a-thon">
