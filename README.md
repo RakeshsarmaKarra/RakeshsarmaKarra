@@ -105,118 +105,48 @@ Click on the image to view the project
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
-    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="700" height="600" alt="Humana-Mays 2024">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="400" height="250" alt="Humana-Mays 2024">
   </a>
-</p>
-<p align="center">
-  <strong>Tools:</strong> Python, SQL, BigQuery, Vertex AI, Jupyter Notebook<br>
-  <!-- <strong>Methodologies:</strong> EDA, XGBoost, Clustering, SHAP<br> -->
-  <strong>Results:</strong> ROC-AUC 0.76, ~70% R2 Score, 40% uplift strategy
-</p>
-
-<p align="center">
-  <a href="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-">
-    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg" width="700" height="600" alt="American Airlines Hackathon 2024">
+  <a href="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/tree/main">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg" width="400" height="265" alt="American Airlines Hackathon 2024">
   </a>
-</p>
-<p align="center">
-  <strong>Tools:</strong> Python, Pandas, Scikit-learn, Jupyter Notebook<br>
-  <!-- <strong>Methodologies:</strong> Feature Engineering, Visualization of <br>
-  passenger behavior and routes<br> -->
-  <strong>Results:</strong> Generated insights on travel patterns for decisions
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon">
-    <img src="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon/blob/main/UNT_Business_Analytics_Hack_a_thon.png" width="700" height="600" alt="UNT Business Analytics Hack-a-thon 2024">
+    <img src="https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon/blob/main/UNT_Business_Analytics_Hack_a_thon.png" width="400" height="250" alt="UNT Business Analytics Hack-a-thon">
   </a>
-</p>
-<p align="center">
-  <strong>Tools:</strong> Python, Jupyter Notebook, Pandas, Scikit-learn<br>
-  <!-- <strong>Methodologies:</strong> EDA, Feature Engineering, Predictive Modeling, Visualization<br> -->
-  <strong>Results:</strong> Key business insights and model outcomes are summarized
-</p>
-
-<p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-">
-    <img src="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-/blob/main/User%20Interface.png" width="700" height="600" alt="Teaching Assistant Prediction ML">
+    <img src="https://github.com/RakeshsarmaKarra/Teaching-Assistant-Prediction-ML-/blob/main/User%20Interface.png" width="400" height="210" alt="TA Eligibility Predictor">
   </a>
-</p>
-<p align="center">
-  <strong>Tools:</strong> R, R Studio, R-Shiny<br>
-  <!-- <strong>Methodologies:</strong> Artificial Neural Networks (ANN), Logistic Regression, Lasso Regression, Ridge Regression<br> -->
-  <strong>Results:</strong> 92% accuracy, 100% sensitivity, 92% specificity using ANN model
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/tree/main">
-    <img src="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/blob/main/Project%20Management%20MSET%205050%20.jpg" width="700" height="600" alt="UC Denton Student Housing Apartments">
+    <img src="https://github.com/RakeshsarmaKarra/UC-Denton-Student-Housing-Appartments/blob/main/Project%20Management%20MSET%205050%20.jpg" width="400" height="250" alt="Project Management">
   </a>
-</p>
-<p align="center">
-  <strong>Scope:</strong> Affordable student housing community in Denton, Texas<br>
-  <strong>Duration:</strong> 20 months | <strong>Budget:</strong> $15 Million | <strong>Client:</strong> Scott Brown Properties<br>
-  <strong>Focus:</strong> Applied project management principles to plan, execute, and deliver the project
-</p>
-
-<p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project">
-    <img src="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20APP%20-%20Image.jpg" width="700" height="500" alt="AHI App Development Project Management Capstone">
+    <img src="https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20APP%20-%20Image.jpg" width="400" height="210" alt="Project Management Capstone">
   </a>
-</p>
-<p align="center">
-  <strong>Project:</strong> AHI App Development (Marketing Data Application)<br>
-  <strong>Timeline:</strong> April 2024 – November 2024 | <strong>Budget:</strong> $250,000<br>
-  <strong>Focus:</strong> Applied project management principles to deliver a real-time market analysis <br>
-  and customer engagement application with 20% Year 1 ROI
 </p>
 
 <p align="center">
-  <a href="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project">
-    <img src="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/IBM%20Data%20Science%20Capstone%20Project%20Picture.jpg" width="700" height="600" alt="Applied Data Science Capstone Project">
+  <a href="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/tree/main">
+    <img src="https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/IBM%20Data%20Science%20Capstone%20Project%20Picture.jpg" width="400" height="223" alt="Project Management">
   </a>
-</p>
-<p align="center">
-  <strong>Tools:</strong> Python, Pandas, Scikit-learn, Folium, Jupyter Notebook<br>
-  <strong>Methodologies:</strong> Data Cleaning, EDA, Clustering, Geospatial Analysis <br>
-  <strong>Results:</strong> Identified optimal neighborhood clusters using Foursquare venue data <br>
-  to support location-based business decisions
-</p>
-
-<p align="center">
   <a href="https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/tree/main">
-    <img src="https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/blob/main/2023_Spotify_Analysis_Report.jpg" width="700" height="600" alt="2023 Spotify Analysis Report">
+    <img src="https://github.com/RakeshsarmaKarra/2023-Spotify-Analysis-Report---Looker-Studio/blob/main/2023_Spotify_Analysis_Report.jpg" width="400" height="225" alt="2023 Spotify Analysis Dashboard">
   </a>
-</p>
-<p align="center">
-  <strong>Tools:</strong> Google Looker Studio, CSV Data Processing<br>
-  <strong>Focus:</strong> Interactive dashboard analyzing 645 artists and 489M+ streams <br>
-  <strong>Results:</strong> Visualized music trends, cross-platform performance, audio features, <br> and artist catalog insights for 2023 streaming landscape
 </p>
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Tableau-Dashboard">
-    <img src="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard.jpg" width="700" height="600" alt="Tableau Dashboard Philippines MCCT Program">
+    <img src="https://github.com/RakeshsarmaKarra/Tableau-Dashboard/blob/main/Tableau%20Dashboard.jpg" width="400" height="250" alt="Philippines MCCT Program Dashboard">
   </a>
-</p>
-<p align="center">
-  <strong>Tools:</strong> Tableau Public, Interactive Dashboard Design<br>
-  <strong>Focus:</strong> Analyzed 3M+ Indigenous People beneficiaries for Philippines MCCT program<br>
-  <strong>Results:</strong> Identified resource allocation gaps, highlighted low-coverage provinces, <br> and provided policy recommendations to enhance socioeconomic outcomes
-</p>
-
-<p align="center">
   <a href="https://github.com/RakeshsarmaKarra/USA-Sales-Performance-Analysis-2014-2017-/tree/main">
-    <img src="https://github.com/RakeshsarmaKarra/USA-Sales-Performance-Analysis-2014-2017-/blob/main/USA%20sales%20dashboard%20picture.jpg" width="700" height="600" alt="USA Sales Performance Analysis 2014-2017">
+    <img src="https://github.com/RakeshsarmaKarra/USA-Sales-Performance-Analysis-2014-2017-/blob/main/USA%20sales%20dashboard%20picture.jpg" width="400" height="220" alt="Sales Performance Analysis">
   </a>
 </p>
-<p align="center">
-  <strong>Tools:</strong> Power BI Desktop, Custom Heatmap Visual, CSV Data Processing<br>
-  <strong>Focus:</strong> Analyzed 4 years of US sales data (631K+ postal code records)<br>
-  <strong>Results:</strong> Identified West region as top profit driver ($11.4M), Technology <br> 
-  category with 3x growth, and geographic expansion opportunities via interactive heatmaps
-</p>
-
 
 # Research Data Scientist(Volunteer)
 <p align="center">
