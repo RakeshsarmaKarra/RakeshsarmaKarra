@@ -158,6 +158,12 @@ Click on the image to view the project
   </a>
 </p>
 
+<p align="center">
+  <a href="https://snascholars.org/wp-content/uploads/2025/02/3rd-Interdisciplinary-Research-Conference-Proceedings.pdf#page=17&view=FitH">
+    <img src="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption/blob/main/SNAS%20-%20Conference%20Proceedings.jpg" width="350" height="250" alt="Conference Paper">
+  </a>
+</p>
+
 # Trainings & Certifications
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
