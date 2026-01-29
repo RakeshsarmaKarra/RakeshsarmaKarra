@@ -115,7 +115,7 @@ Click on the image to view the project
 **Remove**
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
-    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="400" height="250" alt="Humana-Mays 2024">
+    <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="600" height="550" alt="Humana-Mays 2024">
   </a>
 </p>
 <p align="center">
