@@ -1,7 +1,7 @@
 
 ## 👋 About Me                                                                                                                                                
 🎓 Graduated Student from UNT, majored in **Data Science & Advanced Analytics**, USA                                                                        
-🔍 5+ years of experience as a Data Scientist & Analytics Professional                                    
+🔍 6+ years of experience as a Data Scientist & Analytics Professional                                    
 💡 Expertise in machine learning – Supervised, Semi-Supervised, and Unsupervised models using Python & R                                    
 📊 Skilled in data visualization, predictive modeling, and statistical analysis to drive business decisions                                    
 🚀 Passionate about AI, cloud technologies, and optimizing ML models for real-world applications                                                                        
@@ -149,7 +149,7 @@ Click on the image to view the project
 </p>
 
 
-# Research Work(Volunteer)
+# Research Data Scientist(Volunteer)
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption">
     <img src="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption/blob/main/AI%20In%20Action%20Poster%20-%20Final.jpg" width="400" height="250" alt="Ethical Considerations in AI">
