@@ -1,5 +1,5 @@
 
-## 👋 About Me                                                                                                                                                
+### 👋 About Me                                                                                                                                                
 🎓 Graduated Student from UNT, majored in **Data Science & Advanced Analytics**, USA                                                                        
 🔍 6+ years of experience as a Data Scientist & Analytics Professional                                    
 💡 Expertise in machine learning – Supervised, Semi-Supervised, and Unsupervised models using Python & R                                    
@@ -8,15 +8,15 @@
 🌟 Highly motivated and self-confident, with the ability to tackle challenges and perform under pressure                                    
 📍 United States
 
-<!--## 📫 **Contact me:**-->
+<!--### 📫 **Contact me:**-->
 <!--- Email: rakeshs.karra@gmail.com-->
 <!--- Mobile: +1 8327105561-->
 
 
-<!--## 📄 **Resume**-->
+<!--### 📄 **Resume**-->
 <!-- - [Click here](https://github.com/RakeshsarmaKarra/Trainings-Certifications/raw/main/Rakesh_Sarma_Karra_Resume.pdf)-->
   
-## Professional Profiles & Learning Platforms                                                                                                                                
+### Professional Profiles & Learning Platforms                                                                                                                                
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-da/)
 [![Tableau](https://img.shields.io/badge/Tableau%20Public-FF7300?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rakesh.sarma.karra/vizzes)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/a8257f920a2ec528f7dbb2e0fd936527)
@@ -25,7 +25,7 @@
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/s/ukskrVg_e-g)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!E9Rq4xFLh0i89EdsDLTWuprd9ridbE5Nstke9R0JJrTI-vn2dpNVRoCbGRO2gvS7&itemId=01QOIC2C2IYXUBEPDPUZALLGPNAGILMIGL)
 
-## 📊 Skills & Expertise Matrix
+### 📊 Skills & Expertise Matrix
 | **🤖 Predictive Analytics & Machine Learning** | **⚙️ Hyper-Parameter Tuning** | **Data Science Concepts** | **📈 Prescriptive Analytics** | **🗂️ Project Management**   | **🧠 Soft Skills**            |
 | ----------------------------- | -------------------------- | ------------------------- | -------------------------- | ------------------------ | -------------------------- |
 | Linear Regression             | Ridge Regularization       | ETL Process               | Competitor Analysis        | Agile                    | Written Communication      |
@@ -42,28 +42,28 @@
 | ARIMA                         |                            |                           |                            |                          |                            |
 | Seasonal ARIMA (SARIMA)       |                            |                           |                            |                          |                            |                                                                                                           
 
-## Programming Languages  
+### Programming Languages  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)](https://www.w3schools.com/sql/) [![SAS](https://img.shields.io/badge/SAS-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
 
-## Cloud Technologies  
+### Cloud Technologies  
 
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/) [![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)  
 
-## Data Visualization Tools  
+### Data Visualization Tools  
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/) [![SAS Viya](https://img.shields.io/badge/SAS%20Viya-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
 
-# Experience
-## → Data Scientist(Volunteer) - Community Dreams, USA Apr 2025 – Present
+## Experience
+### → Data Scientist(Volunteer) - Community Dreams, USA Apr 2025 – Present
 -	Developed and evaluated machine learning models in Python to analyze community program data (e.g., participation, outcomes, engagement), generating predictive insights that supported data driven decision making for nonprofit initiatives.
 - Built end to end analytical workflows using Python, SQL, and Excel to clean raw community datasets, engineer features, train baseline models, and visualize key findings for stakeholders, documenting the work in GitHub for version control and collaboration. 
 
-## → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Present
+### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Present
 - Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases). 
 - Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.
 
-## → Teaching Assistant & Research Data Scientist(Volunteer) - University of North Texas, Texas Jan 2024 - Dec 2024
+### → TA(Paid) & Research Data Scientist(Volunteer) - University of North Texas, Texas Jan 2024 - Dec 2024
   - Led discussions on BigQuery, Vertex AI in GCP, guiding students in data storage, retrieval, and ML model deployment.
   - Designed and delivered Python-based lab sessions covering advanced machine learning, and big data analytics.
   - Conducted AI bias research, identifying and analyzing system, developer, and statistical biases in ML models.
@@ -73,7 +73,7 @@
   - Applied data-driven research methods to assess the performance and limitations of state-of-the-art AI tools, optimizing their usage in real-world applications.                                                                     
   - **Find my research work in below sections**
   
-## → Data Scientist Intern (OR&AA) - American Airlines, Texas  Sep 2023 - Dec 2023       
+### → Data Scientist Intern (OR&AA) - American Airlines, Texas  Sep 2023 - Dec 2023       
   - Applied CRISP-DM methodology (6 steps process) to initiate flight research, aligning it with strategic business objectives.                                          
   - Deep dived into the dataset(6.5M records) and extracted descriptive statistics.                                                                                    
   - Generated visualizations with the help of matplotlib, seaborn libraries to know about the nature of the data points.                                          
@@ -82,17 +82,17 @@
   - Built random forest model and enhanced accuracy by 78% and mitigated error metrics using seed, cross validation techniques etc.                                          
   - Performed congestion analysis in baggage wise and time of the flights congestion index, identified 3 peak intervals in the day.                                          
   - Implemented a concept called SMTP(Safe Mail Transfer Protocol) to automated alerts in goggle colab and reduced execution time by 60%.                     
-    ### Findouts                                                                                                                              
+    #### Findouts                                                                                                                              
   - Detected a 50% drop of baggage counts due to rainfall and thunderstorm during diagnostic stage by analyzing residual plots.                                          
 
-## → Data Scientist – Citibank, Chennai(California customers) Nov 2021 - Jan 2023                                                                                    
+### → Data Scientist – Citibank, Chennai(California customers) Nov 2021 - Jan 2023                                                                                    
   - Developed an automated feature engineering and fraud detection pipeline using Featuretools and XGBoost, improving model accuracy for high risk transaction detection and data imputation by 15%.                                  
   - Designed and orchestrated ETL workflows in Apache Airflow to migrate data from CMR to MDM, increasing data stewardship reliability to 76% and stabilizing downstream analytics.                                                
   - Streamlined ingestion of large unstructured zip files into SAS by combining UNIX utilities (unzip, grep, awk) with SAS scripts, reducing data loading and preprocessing time by 40% compared to legacy workflows.                
   - Enhanced data quality audits and compliance analytics using advanced SQL (CTE, joins, subqueries, case when) under CCPA 2020, accelerating validation and regulatory reporting.                                                
   - Automated profiling and compliance reports with Python (Pandas Profiling) and scheduling tools(Autosys, Bit Bucket), cutting manual validation effort by ~30% and improving monitoring of data integrity.                                
 
-## → Data Scientist - ICICI Bank, Hyderabad Mar 2019 - Oct 2021                                                                                    
+### → Data Scientist - ICICI Bank, Hyderabad Mar 2019 - Oct 2021                                                                                    
   - Automated portfolio performance reporting using PROC REPORT, COMPUTE STATEMENTS, and dynamic SAS macros, cutting manual reporting time by 60% and delivering real-time insights on assets across transactions, loans, and customer behavior.
   - Processed multi-source banking datasets from Excel, CSV, and database connectors using PROC IMPORT, DATA STEP, and PROC SQL, enabling seamless integration of over 2 million structured records across 22 investment banking products. 
   - Enhanced visualization efficiency by implementing PROC TABULATE, PROC GCHART, and template-driven reporting, boosting branch-level financial monitoring coverage by 45%.
@@ -103,7 +103,7 @@
   - Utilized Python (pandas, matplotlib, seaborn) to prototype fraud detection dashboards and validate SAS outputs, ensuring data quality and stakeholder trust across BI and Risk teams.
   - Translated technical models and analytics outputs into executive-ready dashboards and PowerPoint summaries, helping the Data Science & Analytics Group deliver actionable insights to senior stakeholders and regulatory compliance teams.
 
-# Projects 
+## Projects 
 Click on the image to view the project
 
 <p align="center">
@@ -151,7 +151,7 @@ Click on the image to view the project
   </a>
 </p>
 
-# Research Data Scientist(Volunteer)
+## Research Data Scientist(Volunteer)
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption">
     <img src="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption/blob/main/AI%20In%20Action%20Poster%20-%20Final.jpg" width="400" height="250" alt="Ethical Considerations in AI">
@@ -167,7 +167,7 @@ Click on the image to view the project
   </a>
 </p>
 
-# Trainings & Certifications
+## Trainings & Certifications
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="400" height="250" alt="IBM Data Science Professional Certificate">
@@ -195,7 +195,7 @@ Click on the image to view the project
   </a>  
 </p>
 
-# Honors & Recognitions
+## Honors & Recognitions
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems">
     <img src="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems/blob/main/Poster%20Presentation%20Winner.jpeg" width="400" height="250" alt="AI Bias and Hallucinations">
