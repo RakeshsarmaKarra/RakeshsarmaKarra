@@ -8,6 +8,7 @@
 🌟 Highly motivated and self-confident, with the ability to tackle challenges and perform under pressure                                    
 📍 United States
 
+Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
 <!--### 📫 **Contact me:**-->
 <!--- Email: rakeshs.karra@gmail.com-->
 <!--- Mobile: +1 8327105561-->
