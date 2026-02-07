@@ -56,13 +56,13 @@ Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/) [![SAS Viya](https://img.shields.io/badge/SAS%20Viya-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
 
 ## Experience
-### → Data Scientist(Volunteer) - Community Dreams, USA Apr 2025 – Present
+### → Data Scientist - Community Dreams, USA Apr 2025 – Present
 -	Developed and evaluated machine learning models in Python to analyze community program data (e.g., participation, outcomes, engagement), generating predictive insights that supported data driven decision making for nonprofit initiatives.
 - Built end to end analytical workflows using Python, SQL, and Excel to clean raw community datasets, engineer features, train baseline models, and visualize key findings for stakeholders, documenting the work in GitHub for version control and collaboration. 
 
-### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Present
-- Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases). 
-- Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.
+<!--- ### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Present -->
+<!--- - Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases).--> 
+<!--- - Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.-->
 
 ### → TA(Paid) & Research Data Scientist(Volunteer) - University of North Texas, Texas Jan 2024 - Dec 2024
   - Led discussions on BigQuery, Vertex AI in GCP, guiding students in data storage, retrieval, and ML model deployment.
