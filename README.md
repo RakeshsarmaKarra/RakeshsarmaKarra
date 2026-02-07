@@ -60,11 +60,11 @@ Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
 -	Developed and evaluated machine learning models in Python to analyze community program data (e.g., participation, outcomes, engagement), generating predictive insights that supported data driven decision making for nonprofit initiatives.
 - Built end to end analytical workflows using Python, SQL, and Excel to clean raw community datasets, engineer features, train baseline models, and visualize key findings for stakeholders, documenting the work in GitHub for version control and collaboration. 
 
-<!--- ### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Present -->
-<!--- - Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases).--> 
-<!--- - Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.-->
+### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Present 
+- Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases).
+- Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.
 
-### → TA(Paid) & Research Data Scientist(Volunteer) - University of North Texas, Texas Jan 2024 - Dec 2024
+### → TA(Paid) & Research Data Scientist(Volunteer) - University of North Texas, USA Jan 2024 - Dec 2024
   - Led discussions on BigQuery, Vertex AI in GCP, guiding students in data storage, retrieval, and ML model deployment.
   - Designed and delivered Python-based lab sessions covering advanced machine learning, and big data analytics.
   - Conducted AI bias research, identifying and analyzing system, developer, and statistical biases in ML models.
@@ -74,7 +74,7 @@ Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
   - Applied data-driven research methods to assess the performance and limitations of state-of-the-art AI tools, optimizing their usage in real-world applications.                                                                     
   - **Find my research work in below sections**
   
-### → Data Scientist Intern (OR&AA) - American Airlines, Texas  Sep 2023 - Dec 2023       
+### → Data Scientist Intern (OR&AA) - American Airlines, USA  Sep 2023 - Dec 2023       
   - Applied CRISP-DM methodology (6 steps process) to initiate flight research, aligning it with strategic business objectives.                                          
   - Deep dived into the dataset(6.5M records) and extracted descriptive statistics.                                                                                    
   - Generated visualizations with the help of matplotlib, seaborn libraries to know about the nature of the data points.                                          
@@ -86,14 +86,14 @@ Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
     #### Findouts                                                                                                                              
   - Detected a 50% drop of baggage counts due to rainfall and thunderstorm during diagnostic stage by analyzing residual plots.                                          
 
-### → Data Scientist – Citibank, Chennai(California customers) Nov 2021 - Jan 2023                                                                                    
+### → Data Scientist – Citibank, India(California customers) Nov 2021 - Jan 2023                                                                                    
   - Developed an automated feature engineering and fraud detection pipeline using Featuretools and XGBoost, improving model accuracy for high risk transaction detection and data imputation by 15%.                                  
   - Designed and orchestrated ETL workflows in Apache Airflow to migrate data from CMR to MDM, increasing data stewardship reliability to 76% and stabilizing downstream analytics.                                                
   - Streamlined ingestion of large unstructured zip files into SAS by combining UNIX utilities (unzip, grep, awk) with SAS scripts, reducing data loading and preprocessing time by 40% compared to legacy workflows.                
   - Enhanced data quality audits and compliance analytics using advanced SQL (CTE, joins, subqueries, case when) under CCPA 2020, accelerating validation and regulatory reporting.                                                
   - Automated profiling and compliance reports with Python (Pandas Profiling) and scheduling tools(Autosys, Bit Bucket), cutting manual validation effort by ~30% and improving monitoring of data integrity.                                
 
-### → Data Scientist - ICICI Bank, Hyderabad Mar 2019 - Oct 2021                                                                                    
+### → Data Scientist - ICICI Bank, India Mar 2019 - Oct 2021                                                                                    
   - Automated portfolio performance reporting using PROC REPORT, COMPUTE STATEMENTS, and dynamic SAS macros, cutting manual reporting time by 60% and delivering real-time insights on assets across transactions, loans, and customer behavior.
   - Processed multi-source banking datasets from Excel, CSV, and database connectors using PROC IMPORT, DATA STEP, and PROC SQL, enabling seamless integration of over 2 million structured records across 22 investment banking products. 
   - Enhanced visualization efficiency by implementing PROC TABULATE, PROC GCHART, and template-driven reporting, boosting branch-level financial monitoring coverage by 45%.
@@ -238,9 +238,15 @@ Click on the image to view the project
 -	Received **Bronze Award** in Citi Bank for CMR to MDM migration project.
 - Received **Work Excellence Award** in ICICI bank
 
+## Organizations
+### UNT AI in Action, USA Sep 2024 - Apr 2025
+- Completed the Texas Higher Education Coordinating Board's AI Professional Development Program (Sept–Dec 2024), gaining hands-on competency in prompt engineering, custom GPT development, AI-enhanced content creation, ethical AI considerations, and trustworthy generative AI frameworks, aligning technical skills with responsible AI deployment strategies for academic and industry applications.
+- Collaborated with a cross-functional team of four graduate students to investigate bias propagation, hallucination patterns, and fairness concerns in LLM-based systems, conducting systematic prompt-response experiments, behavioral analysis, and statistical evaluation to quantify model variability and inform design recommendations for more transparent and equitable generative AI applications in educational and research contexts.
 
+### UNT Business Analytics Club, USA Aug 2024 - Dec 2024
+- Participated in speaker sessions and case-based workshops on business analytics, data visualization, and predictive modeling, gaining exposure to real-world applications and tools.
+- Collaborated with peers in analytics challenges and networking events, strengthening problem-solving, presentation skills, and industry connections.
 
-
-
-
-
+### UNT Data Science Talk Series, USA Jan 2024 - Dec 2024
+- Attended the UNT Data Science Talk Series featuring leading experts, rising stars, and academic leaders presenting on cutting-edge topics including machine learning, artificial intelligence, data visualization, big data analytics, and ethical considerations in data usage, broadening exposure to industry best practices and emerging research trends.
+- Participated in collaborative learning sessions that fostered knowledge exchange on state-of-the-art methodologies such as deep learning frameworks (TensorFlow, Keras), cloud-based ML tools, natural language processing, and computational data science techniques, strengthening technical acumen and staying current with the evolving data science landscape.
