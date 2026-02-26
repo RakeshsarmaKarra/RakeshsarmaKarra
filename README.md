@@ -91,7 +91,7 @@ Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
   - Designed and orchestrated ETL workflows in Apache Airflow to migrate data from CMR to MDM, increasing data stewardship reliability to 76% and stabilizing downstream analytics.                                                
   - Streamlined ingestion of large unstructured zip files into SAS by combining UNIX utilities (unzip, grep, awk) with SAS scripts, reducing data loading and preprocessing time by 40% compared to legacy workflows.                
   - Enhanced data quality audits and compliance analytics using advanced SQL (CTE, joins, subqueries, case when) under CCPA 2020, accelerating validation and regulatory reporting.                                                
-  - Automated profiling and compliance reports with Python (Pandas Profiling) and scheduling tools(Autosys, Bit Bucket), cutting manual validation effort by ~30% and improving monitoring of data integrity.                                
+  - Collaborated with engineering and product development teams to automate profiling and compliance reports using Python (Pandas) and Autosys/Bitbucket, reducing manual validation by ~30% and strengthening data integrity monitoring.                                
 
 ### → Data Scientist - ICICI Bank, India Mar 2019 - Oct 2021                                                                                    
   - Automated portfolio performance reporting using PROC REPORT, COMPUTE STATEMENTS, and dynamic SAS macros, cutting manual reporting time by 60% and delivering real-time insights on assets across transactions, loans, and customer behavior.
@@ -250,3 +250,10 @@ Click on the image to view the project
 ### UNT Data Science Talk Series, USA Jan 2024 - Dec 2024
 - Attended the UNT Data Science Talk Series featuring leading experts, rising stars, and academic leaders presenting on cutting-edge topics including machine learning, artificial intelligence, data visualization, big data analytics, and ethical considerations in data usage, broadening exposure to industry best practices and emerging research trends.
 - Participated in collaborative learning sessions that fostered knowledge exchange on state-of-the-art methodologies such as deep learning frameworks (TensorFlow, Keras), cloud-based ML tools, natural language processing, and computational data science techniques, strengthening technical acumen and staying current with the evolving data science landscape.
+
+### UNT Society for Student AI Innovation, USA Jan 2024 - Dec 2024
+- Participated in workshops on Hugging Face models, including practical tokenization sessions emphasizing LLMs for real-world AI applications.
+- Promotes collaborative projects, research, and learning in AI/ML open to all majors, building skills in model deployment and innovation.
+- Engages members in events like online workshops that explore AI usability, such as fine-tuning LLMs for tasks like natural language processing and ethical AI use.
+- Awarded a Participation Certificate for the online workshop “How to Use Hugging Face AI Models?” in Feb 2026, recognizing active engagement in LLM and AI usability sessions (certificate: [Link](https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/UNT%20SSAI%20Hugging%20Face.png)).
+
