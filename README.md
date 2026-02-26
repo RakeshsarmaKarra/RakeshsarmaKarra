@@ -94,15 +94,11 @@ Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
   - Collaborated with engineering and product development teams to automate profiling and compliance reports using Python (Pandas) and Autosys/Bitbucket, reducing manual validation by ~30% and strengthening data integrity monitoring.                                
 
 ### → Data Scientist - ICICI Bank, India Mar 2019 - Oct 2021                                                                                    
-  - Automated portfolio performance reporting using PROC REPORT, COMPUTE STATEMENTS, and dynamic SAS macros, cutting manual reporting time by 60% and delivering real-time insights on assets across transactions, loans, and customer behavior.
-  - Processed multi-source banking datasets from Excel, CSV, and database connectors using PROC IMPORT, DATA STEP, and PROC SQL, enabling seamless integration of over 2 million structured records across 22 investment banking products. 
-  - Enhanced visualization efficiency by implementing PROC TABULATE, PROC GCHART, and template-driven reporting, boosting branch-level financial monitoring coverage by 45%.
-  - Developed and deployed a SAS-based Opportunity Tracker, utilizing CASE WHEN, JOIN, and ranking logic to identify maturing deposits and loan renewals—increased customer retention by 18% over two quarters.
-  - Optimized data retrieval and processing pipelines using PROC SORT, SAS indexing, and dynamic macro variables—reduced query latency by 35% in fraud and compliance report generation.
-  - Built predictive risk models in SAS Enterprise Miner and Python (Scikit-learn), including Logistic Regression and Random Forest, improving loan default prediction accuracy by 12%, contributing to smarter underwriting.
-  - Implemented K-Means Clustering in SAS and Python, segmenting 4M customers by behavior and portfolio holdings, directly supporting targeted marketing campaigns and increasing cross-sell conversion by 22%.
-  - Utilized Python (pandas, matplotlib, seaborn) to prototype fraud detection dashboards and validate SAS outputs, ensuring data quality and stakeholder trust across BI and Risk teams.
-  - Translated technical models and analytics outputs into executive-ready dashboards and PowerPoint summaries, helping the Data Science & Analytics Group deliver actionable insights to senior stakeholders and regulatory compliance teams.
+  - Built and validated predictive risk models in SAS Enterprise Miner and Python (Scikit-learn) for loan default prediction across products such as personal loans, gold loans, and fixed deposits, improving underwriting accuracy by 12%. 
+  - Implemented K-Means clustering in SAS and Python on 4M+ customer records to segment portfolios by behavior and holdings, enabling targeted cross-sell campaigns that increased conversion by 22%. 
+  - Automated portfolio performance reporting using PROC REPORT, dynamic SAS macros, and PROC SQL, cutting manual reporting time by 60% and providing near real-time visibility into loans, transactions, and customer behavior. 
+  - Optimized data pipelines with PROC SORT and macro-driven workflows, reducing query latency by 35% for fraud and compliance reports across 20+ banking products. 
+  - Prototyped VB portfolio dashboards  and delivered executive-ready views for BI, Risk, and senior leadership stakeholders.
 
 ## Projects 
 Click on the image to view the project
