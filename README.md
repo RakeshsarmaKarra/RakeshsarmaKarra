@@ -26,22 +26,26 @@ Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/s/ukskrVg_e-g)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!E9Rq4xFLh0i89EdsDLTWuprd9ridbE5Nstke9R0JJrTI-vn2dpNVRoCbGRO2gvS7&itemId=01QOIC2C2IYXUBEPDPUZALLGPNAGILMIGL)
 
-### 📊 Skills & Expertise Matrix
-| **🤖 Predictive Analytics & Machine Learning** | **⚙️ Hyper-Parameter Tuning** | **Data Science Concepts** | **📈 Prescriptive Analytics** | **🗂️ Project Management**   | **🧠 Soft Skills**            |
-| ----------------------------- | -------------------------- | ------------------------- | -------------------------- | ------------------------ | -------------------------- |
-| Linear Regression             | Ridge Regularization       | ETL Process               | Competitor Analysis        | Agile                    | Written Communication      |
-| Logistic Regression           | Lasso Regularization       | Exploratory Data Analysis | Recommendations            | Waterfall                | Verbal Communication       |
-| Random Forest                 | Cross Validation           | Hypothesis Testing        | KPIs                       | Project Plan             | Analytical Decision Making |
-| K-Means Clustering            | Grid Search                | Feature Engineering       | Business Improvements      | 30%–70% Rule             | Storytelling               |
-| K-Nearest Neighbors (KNN)     | Random Search              | SHAP Values               |                            | Risk Register            | Problem Solving            |
-| Support Vector Machines (SVM) |                            | Root Cause Analysis       |                            | User Stories             | Team Player                |
-| XGBoost                       |                            | A/B Testing               |                            | Communication Plan       |                            |
-| LightGBM                      |                            |                           |                            | Planning Milestones      |                            |
-| Naive Bayes                   |                            |                           |                            | Risk Mitigation Plan     |                            |
-| Artificial Neural Networks    |                            |                           |                            | Quality Management Plan  |                            |
-| CART (Decision Trees)         |                            |                           |                            | Work Breakdown Structure |                            |
-| ARIMA                         |                            |                           |                            |                          |                            |
-| Seasonal ARIMA (SARIMA)       |                            |                           |                            |                          |                            |                                                                                                           
+### Predictive Analytics & Machine Learning                                                                                                                                                                      
+Linear & logistic regression, regularization (Ridge, Lasso)                                                                                                                                    
+Tree-based models (Decision Trees, Random Forest, XGBoost, LightGBM)                                                                                                                                    
+Clustering (K-Means), KNN, SVM, Naive Bayes, basic neural networks                                                                                                                                    
+Time series (ARIMA, SARIMA), anomaly detection, A/B testing                                                                                                                                    
+Feature engineering, cross validation, hyperparameter tuning (grid/random search), SHAP                                                                                                                                    
+
+### Data Science & Analytics                                                                                                                                                                     
+Exploratory data analysis, hypothesis testing, KPI design                                                                                                                                    
+Root cause analysis, recommendations, competitor analysis                                                                                                                                    
+Prescriptive analytics, business improvements                                                                                                                                    
+
+### Project Management & Delivery                                                                                                                                                                     
+Agile/Scrum, user stories, project planning, milestones                                                                                                                                    
+Work breakdown structure, risk register, risk mitigation, communication plans                                                                                                                                    
+30–70% rule, quality management                                                                                                                                    
+
+### Soft Skills                                                                                                                                                                     
+Analytical decision making, problem solving                                                                                                                                                                     
+Data storytelling, written & verbal communication, team collaboration                                                                                                                                    
 
 ### Programming Languages  
 
@@ -60,7 +64,7 @@ Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
 -	Developed and evaluated machine learning models in Python to analyze community program data (e.g., participation, outcomes, engagement), generating predictive insights that supported data driven decision making for nonprofit initiatives.
 - Built end to end analytical workflows using Python, SQL, and Excel to clean raw community datasets, engineer features, train baseline models, and visualize key findings for stakeholders, documenting the work in GitHub for version control and collaboration. 
 
-### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Present 
+### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Present  
 - Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases).
 - Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.
 
