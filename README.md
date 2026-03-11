@@ -72,7 +72,7 @@ Data storytelling, written & verbal communication, team collaboration
 - Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases).
 - Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.
 
-### → TA(Paid) & Research Data Scientist(Volunteer) - University of North Texas, USA Jan 2024 - Dec 2024
+### → Research Data Scientist - University of North Texas, USA Jan 2024 - Dec 2024
   - Led discussions on BigQuery, Vertex AI in GCP, guiding students in data storage, retrieval, and ML model deployment.
   - Designed and delivered Python-based lab sessions covering advanced machine learning, and big data analytics.
   - Conducted AI bias research, identifying and analyzing system, developer, and statistical biases in ML models.
@@ -81,7 +81,15 @@ Data storytelling, written & verbal communication, team collaboration
   - Mentored students on ML workflows, responsible AI, and bias mitigation strategies, ensuring ethical and effective AI model development.
   - Applied data-driven research methods to assess the performance and limitations of state-of-the-art AI tools, optimizing their usage in real-world applications.                                                                     
   - **Find my research work in below sections**
-  
+
+### → Data Scientist (Capstone) - Humana, USA  Sep 2024 - Oct 2024       
+Industry‑sponsored capstone project in collaboration with Humana and University of North Texas.                                                                                                                                            
+- Built a Medicare Advantage member risk prediction model in XGBoost to classify engaged vs. unengaged beneficiaries, improving accuracy by 70% and achieving a ROC-AUC of 0.76 to support risk-adjusted outreach and plan performance.                                 
+- Used SHAP-based model interpretability and KPI analysis to surface key drivers of low engagement and applied clustering techniques to flag nearly 60% of high-risk, unengaged members for targeted interventions that can reduce medical cost.                                 
+- Designed a prescriptive analytics framework boosting engagement by 40% through targeted outreach strategies.                                                                                                   
+- Conducted competitor analysis on UHC etc. to benchmark Humanas positioning and inform outreach strategy refinement.                                                                                                   
+- Recommended financially impactful engagement strategies (multilingual campaigns, telehealth access, community-based programs) aimed at improving quality metrics, STAR ratings, and revenue linked CMS bonus payments presented findings to stakeholders in a business focused storyboard.
+
 ### → Data Scientist Intern (OR&AA) - American Airlines, USA  Sep 2023 - Dec 2023       
   - Applied CRISP-DM methodology (6 steps process) to initiate flight research, aligning it with strategic business objectives.                                          
   - Deep dived into the dataset(6.5M records) and extracted descriptive statistics.                                                                                    
