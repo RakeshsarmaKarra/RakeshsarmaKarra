@@ -1,12 +1,16 @@
 
+![BG](https://github.com/RakeshsarmaKarra/RakeshsarmaKarra/blob/main/Banner1.jpeg)
 ### 👋 About Me                                                                                                                                                
-🎓 Graduated Student from UNT, majored in **Data Science & Advanced Analytics**, USA                                                                        
-🔍 6+ years of experience as a Data Scientist & Analytics Professional                                    
-💡 Expertise in machine learning – Supervised, Semi-Supervised, and Unsupervised models using Python & R                                    
-📊 Skilled in data visualization, predictive modeling, and statistical analysis to drive business decisions                                    
-🚀 Passionate about AI, cloud technologies, and optimizing ML models for real-world applications                                                                        
-🌟 Highly motivated and self-confident, with the ability to tackle challenges and perform under pressure                                    
-📍 United States
+Data Scientist & ML Engineer applying statistics, experimentation, and MLOps to turn messy data into decisions across banking, healthcare, and airline products. I design and deploy fraud detection, forecasting, and analytics solutions that reduce risk, unlock growth opportunities, and give stakeholders clear, actionable insights. I enjoy working end-to-end, from exploring raw data and shaping features to shipping production-grade ML pipelines and dashboards that teams actually use. 
+
+### DataFrame name: RakeshSarmaKarra
+
+print(RakeshSarmaKarra.masters)         | **Data Science & Advanced Analytics**                                                                                                                                                                                                       
+print(RakeshSarmaKarra.university_name) | **University of North Texas**                                                                                                                                                                     
+print(RakeshSarmaKarra.focus)           | **Data Science, Data Analytics, MLOps, Cloud Analytics**                                                                                                                                                                     
+print(RakeshSarmaKarra.domains_worked)  | **Banking/Finance, Airlines, Healthcare**                                                                                                                                    
+print(RakeshSarmaKarra.experience)      | **6 years**                                                                                                                                                                     
+print(RakeshSarmaKarra.location)        | **United States**                                                                                                                                    
 
 Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
 <!--### 📫 **Contact me:**-->
