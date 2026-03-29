@@ -82,7 +82,7 @@ Data storytelling, written & verbal communication, team collaboration
   - Applied data-driven research methods to assess the performance and limitations of state-of-the-art AI tools, optimizing their usage in real-world applications.                                                                     
   - **Find my research work in below sections**
 
-### → Data Scientist (Capstone) - Humana, USA  Sep 2024 - Oct 2024       
+### → Data Scientist Intern - Humana, USA  Sep 2024 - Oct 2024       
 Industry‑sponsored capstone project in collaboration with Humana and University of North Texas.                                                                                                                                            
 - Built a Medicare Advantage member risk prediction model in XGBoost to classify engaged vs. unengaged beneficiaries, improving accuracy by 70% and achieving a ROC-AUC of 0.76 to support risk-adjusted outreach and plan performance.                                 
 - Used SHAP-based model interpretability and KPI analysis to surface key drivers of low engagement and applied clustering techniques to flag nearly 60% of high-risk, unengaged members for targeted interventions that can reduce medical cost.                                 
