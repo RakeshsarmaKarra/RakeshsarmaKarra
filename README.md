@@ -183,7 +183,7 @@ Click on the image to view the project
 ## Trainings & Certifications
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="400" height="250" alt="IBM Data Science Professional Certificate">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AWS%20Certified%20AI%20Practitioner%20certificate.jpg" width="400" height="250" alt="IBM Data Science Professional Certificate">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20-%20FLN%2C%20THECB%20-%20Certificate.jpg" width="400" height="250" alt="AI Facilitated Learning Network">
@@ -195,7 +195,7 @@ Click on the image to view the project
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Fundamentals%20Certificate.jpg" width="400" height="250" alt="AI Fundamentals">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Python%20for%20Beginners.jpg" width="400" height="250" alt="AI Python for Beginners">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="400" height="250" alt="IBM Data Science Professional Certificate">
   </a>  
 </p>
 
