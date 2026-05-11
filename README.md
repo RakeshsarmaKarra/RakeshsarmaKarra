@@ -1,7 +1,7 @@
 
 ![BG](https://github.com/RakeshsarmaKarra/RakeshsarmaKarra/blob/main/Banner1.jpeg)
 ### 👋 About Me                                                                                                                                                
-Data Scientist & ML Engineer applying statistics, experimentation, and MLOps to turn messy data into decisions across banking, healthcare, and airline products. I design and deploy fraud detection, forecasting, and analytics solutions that reduce risk, unlock growth opportunities, and give stakeholders clear, actionable insights. I enjoy working end-to-end, from exploring raw data and shaping features to shipping production-grade ML pipelines and dashboards that teams actually use. 
+AWS-certified Data Scientist & ML Engineer applying statistics, experimentation, and MLOps to turn messy data into decisions across banking, healthcare, and airline products. I design and deploy fraud detection, forecasting, and analytics solutions that reduce risk, unlock growth opportunities, and give stakeholders clear, actionable insights. I enjoy working end-to-end, from exploring raw data and shaping features to shipping production-grade ML pipelines and dashboards that teams actually use. 
 
 ### DataFrame name: RakeshSarmaKarra
 
