@@ -5,10 +5,9 @@ AWS-certified Data Scientist & ML Engineer applying statistics, experimentation,
 
 ### DataFrame name: RakeshSarmaKarra
 
-print(RakeshSarmaKarra.masters)         | **Data Science & Advanced Analytics**                                                                                                                                                                                                       
+print(RakeshSarmaKarra.masters)         | **Data Science & Advanced Analytics**                                                                                                                                                                                           
 print(RakeshSarmaKarra.university_name) | **University of North Texas**                                                                                                                                                                     
-print(RakeshSarmaKarra.focus)           | **Data Science, Data Analytics, MLOps, Cloud Analytics**                                                                                                                                                                     
-print(RakeshSarmaKarra.domains_worked)  | **Banking/Finance, Airlines, Healthcare**                                                                                                                                    
+print(RakeshSarmaKarra.focus)           | **AIML Engineer, Data Science, Data Analytics, MLOps, Cloud Analytics**                                                                                                                                                             print(RakeshSarmaKarra.domains_worked)  | **Banking/Finance, Airlines, Healthcare**                                                                                                                                    
 print(RakeshSarmaKarra.experience)      | **6 years**                                                                                                                                                                     
 print(RakeshSarmaKarra.location)        | **United States**                                                                                                                                    
 
@@ -68,7 +67,7 @@ Data storytelling, written & verbal communication, team collaboration
 -	Developed and evaluated machine learning models in Python to analyze community program data (e.g., participation, outcomes, engagement), generating predictive insights that supported data driven decision making for nonprofit initiatives.
 - Built end to end analytical workflows using Python, SQL, and Excel to clean raw community datasets, engineer features, train baseline models, and visualize key findings for stakeholders, documenting the work in GitHub for version control and collaboration. 
 
-### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Present  
+### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Apr 2026  
 - Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases).
 - Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.
 
@@ -85,8 +84,7 @@ Data storytelling, written & verbal communication, team collaboration
 ### → Data Scientist Intern - Humana, USA  Sep 2024 - Oct 2024       
 Industry‑sponsored capstone project in collaboration with Humana and University of North Texas.                                                                                                                                            
 - Built a Medicare Advantage member risk prediction model in XGBoost to classify engaged vs. unengaged beneficiaries, improving accuracy by 70% and achieving a ROC-AUC of 0.76 to support risk-adjusted outreach and plan performance.                                 
-- Used SHAP-based model interpretability and KPI analysis to surface key drivers of low engagement and applied clustering techniques to flag nearly 60% of high-risk, unengaged members for targeted interventions that can reduce medical cost.                                 
-- Designed a prescriptive analytics framework boosting engagement by 40% through targeted outreach strategies.                                                                                                   
+- Used SHAP-based model interpretability and KPI analysis to surface key drivers of low engagement and applied clustering techniques to flag nearly 60% of high-risk, unengaged members for targeted interventions that can reduce medical cost.                              - Designed a prescriptive analytics framework boosting engagement by 40% through targeted outreach strategies.                                                                                                   
 - Conducted competitor analysis on UHC etc. to benchmark Humanas positioning and inform outreach strategy refinement.                                                                                                   
 - Recommended financially impactful engagement strategies (multilingual campaigns, telehealth access, community-based programs) aimed at improving quality metrics, STAR ratings, and revenue linked CMS bonus payments presented findings to stakeholders in a business focused storyboard.
 
@@ -201,7 +199,7 @@ Click on the image to view the project
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Cloud%20Computing%20Foundations.jpg" width="400" height="250" alt="Cloud Computing Foundations">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AWS%20Certified%20Machine%20Learning%20Engineer%20-%20Associate%20certificate_page-0001.jpg" width="400" height="250" alt="AWS MLA-C01">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Databricks%20Fundamentals.jpg" width="400" height="250" alt="Databricks Fundamentals Accreditation">
