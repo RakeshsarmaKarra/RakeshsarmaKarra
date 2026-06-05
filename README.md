@@ -162,7 +162,7 @@ Click on the image to view the project
   </a>
 </p>
 
-## Research Data Scientist(Volunteer)
+## Research Data Scientist
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption">
     <img src="https://github.com/RakeshsarmaKarra/Ethical-Considerations-In-AI-Adoption/blob/main/AI%20In%20Action%20Poster%20-%20Final.jpg" width="400" height="250" alt="Ethical Considerations in AI">
