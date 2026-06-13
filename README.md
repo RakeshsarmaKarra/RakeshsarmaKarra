@@ -118,6 +118,24 @@ Industry‑sponsored capstone project in collaboration with Humana and Universit
 Click on the image to view the project
 
 <p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/MicrosoftSkillsFest-Getting-Started-With-Agentic-Worksflows">
+    <img src="https://github.com/RakeshsarmaKarra/MicrosoftSkillsFest-Getting-Started-With-Agentic-Worksflows/blob/main/Microsoft%20Skills%20Fest%20Develop%20Agentic%20AI%20Systems%20with%20GitHub.png" width="400" height="250" alt="Develop Agentic AI Systems">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Google-Cloud-Hands-on-AI-Workshop-Multimodal-Agents-Way-Back-Home-">
+    <img src="https://github.com/RakeshsarmaKarra/Google-Cloud-Hands-on-AI-Workshop-Multimodal-Agents-Way-Back-Home-/blob/main/Way%20Back%20Home%20Cover%20Picture.png" width="400" height="265" alt="American Airlines Hackathon 2024">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/RakeshsarmaKarra.github.io">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Portfolio%20Project%20Banner.png" width="400" height="450" alt="Humana-Mays 2024">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/tree/main">
+    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg" width="400" height="250" alt="American Airlines Hackathon 2024">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition">
     <img src="https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg" width="400" height="250" alt="Humana-Mays 2024">
   </a>
