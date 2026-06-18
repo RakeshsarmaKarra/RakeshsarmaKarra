@@ -7,9 +7,9 @@ AWS-certified Data Scientist & ML Engineer applying statistics, experimentation,
 
 print(RakeshSarmaKarra.masters)         | **Data Science & Advanced Analytics**                                                                                                                                                                                           
 print(RakeshSarmaKarra.university_name) | **University of North Texas**                                                                                                                                                                     
-print(RakeshSarmaKarra.focus)           | **AIML Engineer, Data Science, Data Analytics, MLOps, Cloud Analytics**                                                                                                                                                             print(RakeshSarmaKarra.domains_worked)  | **Banking/Finance, Airlines, Healthcare**                                                                                                                                    
-<!-- print(RakeshSarmaKarra.experience)      | **6 years**-->                                                                                                                                                                
+print(RakeshSarmaKarra.focus)           | **AIML Engineer, Data Science, Data Analytics, MLOps, Cloud Analytics**                                                                                                                                   print(RakeshSarmaKarra.domains_worked)  | **Banking/Finance, Airlines, Healthcare**                                                                                                                                    
 print(RakeshSarmaKarra.location)        | **United States**                                                                                                                                    
+<!-- print(RakeshSarmaKarra.experience)      | **6 years**-->
 
 Portfolio - Data & AI Projects: https://rakeshsarmakarra.github.io/
 <!--### 📫 **Contact me:**-->
