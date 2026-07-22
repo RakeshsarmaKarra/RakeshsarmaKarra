@@ -193,7 +193,7 @@ Click on the image to view the project
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20Fundamentals%20Certificate.jpg" width="400" height="250" alt="AI Fundamentals">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="400" height="250" alt="IBM Data Science Professional Certificate">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Google%20Cloud%20Certified%20-%20Professional%20Machine%20Learning%20Engineer%20Certificate_page-0001.jpg" width="400" height="250" alt="GCP Machine Learning professional Certificate">
   </a>  
 </p>
 
