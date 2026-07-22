@@ -63,9 +63,12 @@ Data storytelling, written & verbal communication, team collaboration
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/) [![SAS Viya](https://img.shields.io/badge/SAS%20Viya-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
 
 ## Experience
-### → Data Scientist - Community Dreams, USA Apr 2025 – Present
--	Developed and evaluated machine learning models in Python to analyze community program data (e.g., participation, outcomes, engagement), generating predictive insights that supported data driven decision making for nonprofit initiatives.
-- Built end to end analytical workflows using Python, SQL, and Excel to clean raw community datasets, engineer features, train baseline models, and visualize key findings for stakeholders, documenting the work in GitHub for version control and collaboration. 
+### → AIML Engineer - Fidelity Investments, USA Jan 2026 – Present
+-	Developed a GenAI-powered Financial Advisor Knowledge Assistant using OpenAI GPT-4o, Claude, LangChain, and Pinecone to provide contextual responses from investment and retirement planning documents. 
+- Built Retrieval-Augmented Generation (RAG) pipelines leveraging embedding models and vector search, improving information retrieval relevance and reducing manual research effort for financial advisors.
+
+### → Data Scientist - Community Dreams, USA Apr 2025 – Jan 2026
+-	Built end-to-end Python/SQL pipelines to model program engagement and outcomes, improving predictive performance (F1, AUC) and reducing data processing time by ~30% through optimized workflows versioned in GitHub. 
 
 ### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Apr 2026  
 - Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases).
@@ -82,37 +85,16 @@ Data storytelling, written & verbal communication, team collaboration
   - **Find my research work in below sections**
 
 ### → Data Scientist Intern - Humana, USA  Sep 2024 - Oct 2024       
-Industry‑sponsored capstone project in collaboration with Humana and University of North Texas.                                                                                                                                            
-- Built a Medicare Advantage member risk prediction model in XGBoost to classify engaged vs. unengaged beneficiaries, improving accuracy by 70% and achieving a ROC-AUC of 0.76 to support risk-adjusted outreach and plan performance.                                 
-- Used SHAP-based model interpretability and KPI analysis to surface key drivers of low engagement and applied clustering techniques to flag nearly 60% of high-risk, unengaged members for targeted interventions that can reduce medical cost.                              - Designed a prescriptive analytics framework boosting engagement by 40% through targeted outreach strategies.                                                                                                   
-- Conducted competitor analysis on UHC etc. to benchmark Humanas positioning and inform outreach strategy refinement.                                                                                                   
-- Recommended financially impactful engagement strategies (multilingual campaigns, telehealth access, community-based programs) aimed at improving quality metrics, STAR ratings, and revenue linked CMS bonus payments presented findings to stakeholders in a business focused storyboard.
+- Developed an XGBoost engagement model (ROC-AUC 0.76) with SHAP-based interpretability to identify low-engagement Medicare Advantage segments, projecting up to 40% outreach uplift and translating findings into a STAR-ratings-linked business storyboard.
 
 ### → Data Scientist Intern (OR&AA) - American Airlines, USA  Sep 2023 - Dec 2023       
-  - Applied CRISP-DM methodology (6 steps process) to initiate flight research, aligning it with strategic business objectives.                                          
-  - Deep dived into the dataset(6.5M records) and extracted descriptive statistics.                                                                                    
-  - Generated visualizations with the help of matplotlib, seaborn libraries to know about the nature of the data points.                                          
-  - Performed correlation and causality analysis, identified date column as the only regressor column related to target variable.                                          
-  - Performed data transformations using pandas to_datetime function to convert date column into weekday number.                                          
-  - Built random forest model and enhanced accuracy by 78% and mitigated error metrics using seed, cross validation techniques etc.                                          
-  - Performed congestion analysis in baggage wise and time of the flights congestion index, identified 3 peak intervals in the day.                                          
-  - Implemented a concept called SMTP(Safe Mail Transfer Protocol) to automated alerts in goggle colab and reduced execution time by 60%.                     
-    #### Findouts                                                                                                                              
-  - Detected a 50% drop of baggage counts due to rainfall and thunderstorm during diagnostic stage by analyzing residual plots.                                          
+  - Built automated Python/Snowflake pipelines and ARIMA/Random Forest forecasting models to predict baggage volumes and congestion, cutting reporting time by ~60% and delivering Tableau-based insights presented to HQ stakeholders for capacity planning.                                          
 
 ### → Data Scientist – Citibank, India(California customers) Nov 2021 - Jan 2023                                                                                    
-  - Developed an automated feature engineering and fraud detection pipeline using Featuretools and XGBoost, improving model accuracy for high risk transaction detection and data imputation by 15%.                                  
-  - Designed and orchestrated ETL workflows in Apache Airflow to migrate data from CMR to MDM, increasing data stewardship reliability to 76% and stabilizing downstream analytics.                                                
-  - Streamlined ingestion of large unstructured zip files into SAS by combining UNIX utilities (unzip, grep, awk) with SAS scripts, reducing data loading and preprocessing time by 40% compared to legacy workflows.                
-  - Enhanced data quality audits and compliance analytics using advanced SQL (CTE, joins, subqueries, case when) under CCPA 2020, accelerating validation and regulatory reporting.                                                
-  - Collaborated with engineering and product development teams to automate profiling and compliance reports using Python (Pandas) and Autosys/Bitbucket, reducing manual validation by ~30% and strengthening data integrity monitoring.                                
+  - Automated legacy AML/fraud ETL pipelines in SAS and Python during a CMR-to-MDM migration, cutting file processing time by 40% and improving data stewardship reliability by 76%, earning Silver and Bronze recognition for regulatory-compliant delivery.                            
 
 ### → Data Scientist - ICICI Bank, India Mar 2019 - Oct 2021                                                                                    
-  - Built and validated predictive risk models in SAS Enterprise Miner and Python (Scikit-learn) for loan default prediction across products such as personal loans, gold loans, and fixed deposits, improving underwriting accuracy by 12%. 
-  - Implemented K-Means clustering in SAS and Python on 4M+ customer records to segment portfolios by behavior and holdings, enabling targeted cross-sell campaigns that increased conversion by 22%. 
-  - Automated portfolio performance reporting using PROC REPORT, dynamic SAS macros, and PROC SQL, cutting manual reporting time by 60% and providing near real-time visibility into loans, transactions, and customer behavior. 
-  - Optimized data pipelines with PROC SORT and macro-driven workflows, reducing query latency by 35% for fraud and compliance reports across 20+ banking products. 
-  - Prototyped VB portfolio dashboards  and delivered executive-ready views for BI, Risk, and senior leadership stakeholders.
+  - Built and deployed predictive risk and customer-segmentation models (Scikit-learn, SAS Enterprise Miner, K-Means) across 4M+ records, improving underwriting accuracy by 12%, lifting cross-sell conversion by 22%, and cutting reporting time by 60% through automated SAS/SQL pipelines.
 
 ## Projects 
 Click on the image to view the project
