@@ -75,13 +75,7 @@ Data storytelling, written & verbal communication, team collaboration
 - Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.
 
 ### → Research Data Scientist - University of North Texas, USA Jan 2024 - Dec 2024
-  - Led discussions on BigQuery, Vertex AI in GCP, guiding students in data storage, retrieval, and ML model deployment.
-  - Designed and delivered Python-based lab sessions covering advanced machine learning, and big data analytics.
-  - Conducted AI bias research, identifying and analyzing system, developer, and statistical biases in ML models.
-  - Designed an AI reliability survey, revealing 68% of participants believed AI enhanced performance, providing insights into user trust and adoption.
-  - Performed a comparative analysis of bias, hate speech detection, and sentiment classification across AI models from ChatGPT, Gemini, Meta AI, and Claude AI.
-  - Mentored students on ML workflows, responsible AI, and bias mitigation strategies, ensuring ethical and effective AI model development.
-  - Applied data-driven research methods to assess the performance and limitations of state-of-the-art AI tools, optimizing their usage in real-world applications.                                                                     
+  - Conducted AI bias research across ChatGPT, Gemini, Claude, and Meta AI, running comparative bias/hate-speech/sentiment experiments and user-trust surveys (~68% positive) while mentoring 120+ students on GCP-based ML pipelines using Python, BigQuery, and Vertex AI.                                                                                                                                                 
   - **Find my research work in below sections**
 
 ### → Data Scientist Intern - Humana, USA  Sep 2024 - Oct 2024       
