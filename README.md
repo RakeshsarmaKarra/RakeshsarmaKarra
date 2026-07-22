@@ -93,7 +93,7 @@ Data storytelling, written & verbal communication, team collaboration
 ### → Data Scientist – Citibank, India(California customers) Nov 2021 - Jan 2023                                                                                    
   - Automated legacy AML/fraud ETL pipelines in SAS and Python during a CMR-to-MDM migration, cutting file processing time by 40% and improving data stewardship reliability by 76%, earning Silver and Bronze recognition for regulatory-compliant delivery.                            
 
-### → Data Scientist - ICICI Bank, India Mar 2019 - Oct 2021                                                                                    
+### → Data Scientist - ICICI Bank, India Nov 2017 - Oct 2021                                                                                    
   - Built and deployed predictive risk and customer-segmentation models (Scikit-learn, SAS Enterprise Miner, K-Means) across 4M+ records, improving underwriting accuracy by 12%, lifting cross-sell conversion by 22%, and cutting reporting time by 60% through automated SAS/SQL pipelines.
 
 ## Projects 
