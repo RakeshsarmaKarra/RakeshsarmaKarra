@@ -178,7 +178,7 @@ Click on the image to view the project
   </a>
 </p>
 
-## Trainings & Certifications
+## Certifications
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AWS%20Certified%20AI%20Practitioner%20certificate.jpg" width="400" height="250" alt="IBM Data Science Professional Certificate">
