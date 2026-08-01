@@ -172,6 +172,44 @@ Click on the image to view the project
   </a>
 </p>
 
+## Trainings & Certifications
+Selected professional trainings and industry-recognized learning programs focused on Generative AI, agentic workflows, responsible AI, and machine learning.
+
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Kaggle.png" width="350" height="250" alt="Kaggle | Google: 5-Day AI Agents: Intensive Vibe Coding Course">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Microsoft%20Skills%20Fest.png" width="350" height="250" alt="Microsoft AI Skills Fest 2026">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Kaggle-5-Day-AI-Agents-Intensive-Vibe-Coding-Course-With-Google">Learning Repo</a> |
+  <a href="https://github.com/RakeshsarmaKarra/RetailForgeAI-Retail-Business-Agent-KaggleCapstone">Capstone Project</a> |
+  <a href="https://www.kaggle.com/certification/badges/rakeshsarmakarra/108">Certificate</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/RakeshsarmaKarra/MicrosoftSkillsFest-Getting-Started-With-Agentic-Worksflows">Project Repo</a> |
+  <a href="https://lnkd.in/p/gkfRy2Sv">LinkedIn Post</a> |
+  <a href="https://www.credly.com/users/rakeshsarma-karra/edit/badges/credly">Credly Badge</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/SAS%20AI%20and%20Machine%20Learning%20Skills%20Fest.png" width="350" height="250" alt="SAS AI and Machine Learning Skills Fest">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20FLN.png" width="350" height="250" alt="THECB - Adapting to Innovation (AI) - Facilitated Learning Network">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/9f185b01-a365-4146-a948-d87321e3a16b">Credly Badge</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/posts/rakesh-da_program-certificate-activity-7276317349731868672-jb_Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB4AGzABmPX1hkSO02JtrPKNtNAxpHkEhGc">LinkedIn Post</a> |
+  <a href="https://www.credly.com/badges/1235b0b3-9486-4fe3-9c62-58f4d0b085b7/public_url">Credly Badge</a>
+</p>
+
 ## Certifications
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
