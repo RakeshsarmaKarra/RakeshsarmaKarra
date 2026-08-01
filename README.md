@@ -106,8 +106,8 @@ Click on the image to view the project
   <a href="https://github.com/RakeshsarmaKarra/RakeshsarmaKarra.github.io">
     <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Portfolio%20Project%20Banner.png" width="400" height="450" alt="Humana-Mays 2024">
   </a>
-  <a href="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/tree/main">
-    <img src="https://github.com/RakeshsarmaKarra/American-Airlines-Hack-a-thon-OR-AA-/blob/main/AA%20Hack-a-thon%20Flyer.jpg" width="400" height="250" alt="American Airlines Hackathon 2024">
+  <a href="https://github.com/RakeshsarmaKarra/RetailForgeAI-Retail-Business-Agent-KaggleCapstone">
+    <img src="https://github.com/RakeshsarmaKarra/RetailForgeAI-Retail-Business-Agent-KaggleCapstone/blob/main/Retail%20AI%20Agent%20Cover%20Picture.png" width="400" height="250" alt="Retail AI Agent">
   </a>
 </p>
 
@@ -177,10 +177,10 @@ Selected professional trainings and industry-recognized learning programs focuse
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Kaggle.png" width="350" height="250" alt="Kaggle | Google: 5-Day AI Agents: Intensive Vibe Coding Course">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Kaggle.png" width="300" height="250" alt="Kaggle | Google: 5-Day AI Agents: Intensive Vibe Coding Course">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Microsoft%20Skills%20Fest.png" width="350" height="250" alt="Microsoft AI Skills Fest 2026">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Microsoft%20Skills%20Fest.png" width="300" height="250" alt="Microsoft AI Skills Fest 2026">
   </a>
 </p>
 
@@ -196,10 +196,10 @@ Selected professional trainings and industry-recognized learning programs focuse
 
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/SAS%20AI%20and%20Machine%20Learning%20Skills%20Fest.png" width="350" height="250" alt="SAS AI and Machine Learning Skills Fest">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/SAS%20AI%20and%20Machine%20Learning%20Skills%20Fest.png" width="300" height="250" alt="SAS AI and Machine Learning Skills Fest">
   </a>
   <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
-    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20FLN.png" width="350" height="250" alt="THECB - Adapting to Innovation (AI) - Facilitated Learning Network">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/AI%20FLN.png" width="300" height="250" alt="THECB - Adapting to Innovation (AI) - Facilitated Learning Network">
   </a>
 </p>
 
