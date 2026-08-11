@@ -64,15 +64,13 @@ Data storytelling, written & verbal communication, team collaboration
 
 ## Experience
 ### → AIML Engineer - Fidelity Investments, USA Jan 2026 – Present
--	Developed a GenAI-powered Financial Advisor Knowledge Assistant using OpenAI GPT-4o, Claude, LangChain, and Pinecone to provide contextual responses from investment and retirement planning documents. 
-- Built Retrieval-Augmented Generation (RAG) pipelines leveraging embedding models and vector search, improving information retrieval relevance and reducing manual research effort for financial advisors.
+-	Developing ML and RAG applications with Python, LangChain, vector search, and AWS to support financial-document intelligence and data-driven decision-making.
 
 ### → Data Scientist - Community Dreams, USA Apr 2025 – Jan 2026
--	Built end-to-end Python/SQL pipelines to model program engagement and outcomes, improving predictive performance (F1, AUC) and reducing data processing time by ~30% through optimized workflows versioned in GitHub. 
+-	Developed and evaluated machine learning models in Python to analyze community program data (e.g., participation, outcomes, engagement), generating predictive insights that supported data driven decision making for nonprofit initiatives. 
 
-### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Apr 2026  
-- Contributing as an ML Engineer volunteer to design and prototype machine learning models in Python for Murphy Charitable Foundation’s new application supporting vulnerable communities (e.g., child sponsorship and donor engagement use cases).
-- Building and iterating on data pipelines using Python and SQL (data cleaning, feature engineering, basic model training), with experiments and notebooks version controlled through Git and regularly pushed to GitHub.
+### → Machine Learning Engineer(Volunteer) - Murphy Charitable Foundations, USA Nov 2025 – Mar 2026  
+- Built and deployed a React-based analytics dashboard with Node.js tooling to visualize model-informed sponsorship, donor, and program KPIs, incorporated human-review checkpoints for data quality and sensitive model recommendations.
 
 ### → Research Data Scientist - University of North Texas, USA Jan 2024 - Dec 2024
   - Conducted AI bias research across ChatGPT, Gemini, Claude, and Meta AI, running comparative bias/hate-speech/sentiment experiments and user-trust surveys (~68% positive) while mentoring 120+ students on GCP-based ML pipelines using Python, BigQuery, and Vertex AI.                                                                                                                                                 
