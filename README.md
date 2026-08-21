@@ -189,7 +189,7 @@ Selected professional trainings and industry-recognized learning programs focuse
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RakeshsarmaKarra/MicrosoftSkillsFest-Getting-Started-With-Agentic-Worksflows">Project Repo</a> |
   <a href="https://lnkd.in/p/gkfRy2Sv">LinkedIn Post</a> |
-  <a href="https://www.credly.com/users/rakeshsarma-karra/edit/badges/credly">Credly Badge</a>
+  <a href="https://www.credly.com/badges/6a267532-5a71-49cf-9a64-3f4cb3f64d2e/public_url">Credly Badge</a>
 </p>
 
 <p align="center">
