@@ -236,6 +236,15 @@ Selected professional trainings and industry-recognized learning programs focuse
   </a>  
 </p>
 
+<p align="center">
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/Microsoft%20Certified%20Machine%20Learning%20Operations%20Engineer%20Associate.png" width="400" height="250" alt="Microsoft AI 300">
+  </a>
+  <a href="https://github.com/RakeshsarmaKarra/Trainings-Certifications">
+    <img src="https://github.com/RakeshsarmaKarra/Trainings-Certifications/blob/main/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="400" height="250" alt="IBM Data Science Professional">
+  </a>  
+</p>
+
 ## Honors & Recognitions
 <p align="center">
   <a href="https://github.com/RakeshsarmaKarra/Exploring-User-Bias-and-Hallucinations-In-Generative-AI-Systems">
