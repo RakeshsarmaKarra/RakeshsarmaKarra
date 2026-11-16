@@ -1,7 +1,7 @@
 
-![BG](https://github.com/RakeshsarmaKarra/RakeshsarmaKarra/blob/main/Banner1.jpeg)
+<!-- ![BG](https://github.com/RakeshsarmaKarra/RakeshsarmaKarra/blob/main/Banner1.jpeg) -->
 ### 👋 About Me                                                                                                                                                
-AWS-certified Data Scientist & ML Engineer applying statistics, experimentation, and MLOps to turn messy data into decisions across banking, healthcare, and airline products. I design and deploy fraud detection, forecasting, and analytics solutions that reduce risk, unlock growth opportunities, and give stakeholders clear, actionable insights. I enjoy working end-to-end, from exploring raw data and shaping features to shipping production-grade ML pipelines and dashboards that teams actually use. 
+ AIML Engineer & Data Scientist applying statistics, experimentation, and MLOps to turn messy data into decisions across banking, healthcare, and airline products. I design and deploy fraud detection, forecasting, and analytics solutions that reduce risk, unlock growth opportunities, and give stakeholders clear, actionable insights. I enjoy working end-to-end, from exploring raw data and shaping features to shipping production-grade ML pipelines and dashboards that teams actually use. 
 
 ### DataFrame name: RakeshSarmaKarra
 
@@ -63,7 +63,9 @@ Data storytelling, written & verbal communication, team collaboration
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/) [![SAS Viya](https://img.shields.io/badge/SAS%20Viya-0066FF?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
 
 ## Experience
-### → AIML Engineer - Fidelity Investments, USA Jan 2026 – Present
+### → Senior Software Engineer - Google (via GlobalLogic), USA Nov 2026 – Present
+
+### → Data Scientist - Fidelity Investments, USA Jan 2026 – Oct 2026
 -	Developing ML and RAG applications with Python, LangChain, vector search, and AWS to support financial-document intelligence and data-driven decision-making.
 
 ### → Data Scientist - Community Dreams, USA Apr 2025 – Jan 2026
